@@ -3,3 +3,4 @@
 
 ### Electric Current
 Amount of charge 𝑄, flowing through a fixed surface in time t . Unit is Ampere 𝐴
+fsdkljhsdkgvsdhjkgbv
