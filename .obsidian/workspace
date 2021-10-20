@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "6b93c779825a00b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "169282d894d286a3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Eingebette Systeme/CH-1 Electronical Baiscs.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c285544bd507fd66",
+    "type": "split",
+    "children": [
+      {
+        "id": "8daefdcfb1c5d0e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da42484831768d2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4de86ff1c56767b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 161
+  },
+  "right": {
+    "id": "30611a976f45d65a",
+    "type": "split",
+    "children": [
+      {
+        "id": "158f810d2f74ef16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e37d00f81a4d6ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Eingebette Systeme/CH-1 Electronical Baiscs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e154287ad40b92bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Eingebette Systeme/CH-1 Electronical Baiscs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa8b5c2c22130c3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "169282d894d286a3",
+  "lastOpenFiles": [
+    "Eingebette Systeme/CH-1 Electronical Baiscs.md",
+    "Eingebette Systeme/CH-1.md",
+    "Pasted image 20211004164341.png",
+    "Pasted image 20211004164149.png",
+    "Pasted image 20211004164242.png",
+    "Physical Quantities and their Units.md",
+    "Pasted image 20211004163929.png",
+    "Pasted image 20211004163811.png.md",
+    "Eingebette Systeme/Pasted image 20211004163756.png",
+    "CH-1.md"
+  ]
+}
