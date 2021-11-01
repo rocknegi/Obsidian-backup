@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eingebette Systeme/CH-1 Electronical Baiscs.md",
-            "mode": "source"
+            "file": "GDR/Introduction.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 161
+    "width": 197
   },
   "right": {
     "id": "30611a976f45d65a",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eingebette Systeme/CH-1 Electronical Baiscs.md",
+                "file": "GDR/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eingebette Systeme/CH-1 Electronical Baiscs.md",
+                "file": "GDR/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,6 +111,8 @@
   },
   "active": "169282d894d286a3",
   "lastOpenFiles": [
+    "GDR/Introduction.md",
+    "Untitled.md",
     "Eingebette Systeme/CH-1 Electronical Baiscs.md",
     "Pasted image 20211004164341.png",
     "Eingebette Systeme/CH-1.md",
@@ -118,8 +120,6 @@
     "Pasted image 20211004164242.png",
     "Physical Quantities and their Units.md",
     "Pasted image 20211004163929.png",
-    "Pasted image 20211004163811.png.md",
-    "Eingebette Systeme/Pasted image 20211004163756.png",
-    "CH-1.md"
+    "Pasted image 20211004163811.png.md"
   ]
 }
