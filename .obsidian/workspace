@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0e47d6778044332c",
+        "id": "7c3f7dd086b019f4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "GDR/2.Subsystems and Components.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GDR/2.Subsystems and Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GDR/2.Subsystems and Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0e47d6778044332c",
+  "active": "7c3f7dd086b019f4",
   "lastOpenFiles": [
-    "Maths/Derivation.pdf",
-    "Maths/GDR.pdf",
-    "Maths/Integration.pdf",
-    "Maths/Untitled.md",
-    "Maths/Untitled 1.md",
-    "Untitled.md",
     "GDR/2.Subsystems and Components.md",
+    "GDR/3D coords.pdf",
     "GDR/1.Introduction.md",
-    "Eingebette Systeme/CH-1 Electronical Baiscs.md",
-    "Pasted image 20211004164341.png"
+    "Maths/trigonometry.pdf",
+    "Maths/1.png",
+    "Maths/Derivation.jpg",
+    "Maths/Integration.jpg",
+    "Maths/Integration.pdf",
+    "Maths/Derivation.pdf",
+    "Maths/Untitled.md"
   ]
 }
