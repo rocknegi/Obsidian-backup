@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "169282d894d286a3",
+        "id": "0e47d6778044332c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "GDR/2.Subsystems and Components.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDR/2.Subsystems and Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDR/2.Subsystems and Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "169282d894d286a3",
+  "active": "0e47d6778044332c",
   "lastOpenFiles": [
-    "GDR/2.Subsystems and Components.md",
+    "Maths/Derivation.pdf",
+    "Maths/GDR.pdf",
+    "Maths/Integration.pdf",
+    "Maths/Untitled.md",
+    "Maths/Untitled 1.md",
     "Untitled.md",
+    "GDR/2.Subsystems and Components.md",
     "GDR/1.Introduction.md",
     "Eingebette Systeme/CH-1 Electronical Baiscs.md",
-    "Pasted image 20211004164341.png",
-    "Eingebette Systeme/CH-1.md",
-    "Pasted image 20211004164149.png",
-    "Pasted image 20211004164242.png",
-    "Physical Quantities and their Units.md",
-    "Pasted image 20211004163929.png"
+    "Pasted image 20211004164341.png"
   ]
 }
