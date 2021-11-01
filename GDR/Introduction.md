@@ -21,3 +21,14 @@ Robots are sensorimotor machines that expand human skills. They consist of mecha
 - Actuators and controllers for joint movements
 - Computer and complex software systems for decision making and control
 - Sensor system for the measurement of the robot state and its environment
+
+ ## Definition: Service Robot / Personal Robot
+ - A robot which operates semi or fully autonomously to perform services useful to the well being of humans and equipment excluding manufacturing operations 
+  [World Robotics 2003]
+  
+  ## Application Areas
+  - Industrial robots 
+  -  In construction
+  -  Entertainment 
+  -  Elderly care
+  -  Medical operations like surgeries 
