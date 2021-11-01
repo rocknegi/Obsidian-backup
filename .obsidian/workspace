@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GDR/Introduction.md",
+            "file": "GDR/2.Subsystems and Components.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDR/Introduction.md",
+                "file": "GDR/2.Subsystems and Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDR/Introduction.md",
+                "file": "GDR/2.Subsystems and Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +111,15 @@
   },
   "active": "169282d894d286a3",
   "lastOpenFiles": [
-    "GDR/Introduction.md",
+    "GDR/2.Subsystems and Components.md",
     "Untitled.md",
+    "GDR/1.Introduction.md",
     "Eingebette Systeme/CH-1 Electronical Baiscs.md",
     "Pasted image 20211004164341.png",
     "Eingebette Systeme/CH-1.md",
     "Pasted image 20211004164149.png",
     "Pasted image 20211004164242.png",
     "Physical Quantities and their Units.md",
-    "Pasted image 20211004163929.png",
-    "Pasted image 20211004163811.png.md"
+    "Pasted image 20211004163929.png"
   ]
 }
