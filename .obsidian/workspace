@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3D Computer Vision/2.Calibration.md",
-            "mode": "preview"
+            "file": "3D Computer Vision/1.Camera.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D Computer Vision/2.Calibration.md",
+                "file": "3D Computer Vision/1.Camera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D Computer Vision/2.Calibration.md",
+                "file": "3D Computer Vision/1.Camera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,10 +111,10 @@
   },
   "active": "7c3f7dd086b019f4",
   "lastOpenFiles": [
+    "3D Computer Vision/1.Camera.md",
     "3D Computer Vision/2.Calibration.md",
     "GDR/1.Introduction.md",
     "GDR/2.Subsystems and Components.md",
-    "3D Computer Vision/1.Camera.md",
     "Eingebette Systeme/CH-1 Electronical Baiscs.md",
     "GDR/3D coords.pdf",
     "Maths/trigonometry.pdf",
