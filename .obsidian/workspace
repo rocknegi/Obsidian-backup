@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GDR/2.Subsystems and Components.md",
+            "file": "GDR/3.Kinematics.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GDR/2.Subsystems and Components.md",
+            "file": "GDR/3.Kinematics.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDR/2.Subsystems and Components.md",
+                "file": "GDR/3.Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDR/2.Subsystems and Components.md",
+                "file": "GDR/3.Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,15 +122,15 @@
   },
   "active": "25f63aeb01c0cf6c",
   "lastOpenFiles": [
+    "GDR/3.Kinematics.md",
+    "3D Computer Vision/2.Calibration.md",
     "GDR/2.Subsystems and Components.md",
     "GDR/1.Introduction.md",
-    "3D Computer Vision/2.Calibration.md",
     "3D Computer Vision/1.Camera.md",
     "Maths/Derivation.jpg",
     "Eingebette Systeme/CH-1 Electronical Baiscs.md",
     "GDR/3D coords.pdf",
     "Maths/trigonometry.pdf",
-    "Maths/1.png",
-    "Maths/Integration.jpg"
+    "Maths/1.png"
   ]
 }
