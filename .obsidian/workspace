@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3D Computer Vision/2.Calibration.md",
+            "file": "GDR/2.Subsystems and Components.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a59ebe2398c1a91f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GDR/2.Subsystems and Components.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D Computer Vision/2.Calibration.md",
+                "file": "GDR/2.Subsystems and Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D Computer Vision/2.Calibration.md",
+                "file": "GDR/2.Subsystems and Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,13 +120,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "25f63aeb01c0cf6c",
+  "active": "a59ebe2398c1a91f",
   "lastOpenFiles": [
+    "GDR/2.Subsystems and Components.md",
+    "GDR/1.Introduction.md",
     "3D Computer Vision/2.Calibration.md",
     "3D Computer Vision/1.Camera.md",
     "Maths/Derivation.jpg",
-    "GDR/1.Introduction.md",
-    "GDR/2.Subsystems and Components.md",
     "Eingebette Systeme/CH-1 Electronical Baiscs.md",
     "GDR/3D coords.pdf",
     "Maths/trigonometry.pdf",
