@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Dot product\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,8 +123,8 @@
   "active": "25f63aeb01c0cf6c",
   "lastOpenFiles": [
     "GDR/3.Kinematics.md",
-    "3D Computer Vision/2.Calibration.md",
     "GDR/2.Subsystems and Components.md",
+    "3D Computer Vision/2.Calibration.md",
     "GDR/1.Introduction.md",
     "3D Computer Vision/1.Camera.md",
     "Maths/Derivation.jpg",
