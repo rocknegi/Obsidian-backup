@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "3D Computer Vision/2.Calibration.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3D Computer Vision/3.Homographies.md",
+            "file": "3D Computer Vision/2.Calibration.md",
             "mode": "preview"
           }
         }
@@ -124,13 +124,13 @@
   "lastOpenFiles": [
     "3D Computer Vision/2.Calibration.md",
     "3D Computer Vision/3.Homographies.md",
-    "GDR/2.Subsystems and Components.md",
-    "GDR/3.Kinematics.md",
-    "GDR/1.Introduction.md",
-    "3D Computer Vision/1.Camera.md",
+    "Maths/trigonometry.pdf",
     "Maths/Derivation.jpg",
-    "Eingebette Systeme/CH-1 Electronical Baiscs.md",
+    "Maths/Integration.jpg",
     "GDR/3D coords.pdf",
-    "Maths/trigonometry.pdf"
+    "GDR/3.Kinematics.md",
+    "GDR/2.Subsystems and Components.md",
+    "GDR/1.Introduction.md",
+    "3D Computer Vision/1.Camera.md"
   ]
 }
