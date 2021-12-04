@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3D Computer Vision/2.Calibration.md",
+            "file": "GDR/3.Kinematics.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3D Computer Vision/2.Calibration.md",
+            "file": "GDR/3.Kinematics.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D Computer Vision/2.Calibration.md",
+                "file": "GDR/3.Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D Computer Vision/2.Calibration.md",
+                "file": "GDR/3.Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,15 +122,15 @@
   },
   "active": "25f63aeb01c0cf6c",
   "lastOpenFiles": [
-    "3D Computer Vision/2.Calibration.md",
-    "3D Computer Vision/3.Homographies.md",
-    "Maths/trigonometry.pdf",
-    "Maths/Derivation.jpg",
-    "Maths/Integration.jpg",
-    "GDR/3D coords.pdf",
     "GDR/3.Kinematics.md",
+    "3D Computer Vision/2.Calibration.md",
     "GDR/2.Subsystems and Components.md",
     "GDR/1.Introduction.md",
-    "3D Computer Vision/1.Camera.md"
+    "GDR/3D coords.pdf",
+    "images/Pasted image 20211121183620.png",
+    "images/Pasted image 20211121183546.png",
+    "images/Pasted image 20211121183405.png",
+    "images/Pasted image 20211121183313.png",
+    "images/Pasted image 20211121183031.png"
   ]
 }
