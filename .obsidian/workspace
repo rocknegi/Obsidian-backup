@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GDR/3.Kinematics.md",
+            "file": "GDR/3.Kinematics-I.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GDR/3.Kinematics.md",
+            "file": "GDR/3.Kinematics-I.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDR/3.Kinematics.md",
+                "file": "GDR/3.Kinematics-I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDR/3.Kinematics.md",
+                "file": "GDR/3.Kinematics-I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,15 +122,15 @@
   },
   "active": "25f63aeb01c0cf6c",
   "lastOpenFiles": [
-    "GDR/3.Kinematics.md",
-    "3D Computer Vision/2.Calibration.md",
+    "GDR/3.Kinematics-I.md",
     "GDR/2.Subsystems and Components.md",
+    "Maths/trigonometry.pdf",
+    "3D Computer Vision/2.Calibration.md",
     "GDR/1.Introduction.md",
     "GDR/3D coords.pdf",
     "images/Pasted image 20211121183620.png",
     "images/Pasted image 20211121183546.png",
     "images/Pasted image 20211121183405.png",
-    "images/Pasted image 20211121183313.png",
-    "images/Pasted image 20211121183031.png"
+    "images/Pasted image 20211121183313.png"
   ]
 }
