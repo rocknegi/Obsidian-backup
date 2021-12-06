@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GDR/3.Kinematics-I.md",
+            "file": "GDR/Untitled.md",
             "mode": "source"
           }
         }
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 197,
-    "collapsed": true
+    "width": 197
   },
   "right": {
     "id": "30611a976f45d65a",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDR/3.Kinematics-I.md",
+                "file": "GDR/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDR/3.Kinematics-I.md",
+                "file": "GDR/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,6 +122,8 @@
   },
   "active": "25f63aeb01c0cf6c",
   "lastOpenFiles": [
+    "GDR/Untitled.md",
+    "Untitled.md",
     "GDR/3.Kinematics-I.md",
     "GDR/1.Introduction.md",
     "GDR/2.Subsystems and Components.md",
@@ -130,8 +131,6 @@
     "GDR/3D coords.pdf",
     "Maths/Derivation.jpg",
     "3D Computer Vision/1.Camera.md",
-    "3D Computer Vision/3.Homographies.md",
-    "Maths/trigonometry.pdf",
-    "images/Pasted image 20211121183620.png"
+    "3D Computer Vision/3.Homographies.md"
   ]
 }
