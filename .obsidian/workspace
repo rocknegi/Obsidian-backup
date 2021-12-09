@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "a59ebe2398c1a91f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "GDR/4. Direct Kinematics.md",
-            "mode": "preview"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -63,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 197
+    "width": 197,
+    "collapsed": true
   },
   "right": {
     "id": "30611a976f45d65a",
