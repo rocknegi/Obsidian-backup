@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GDR/4. Direct Kinematics.md",
+            "file": "GDR/5. Inverse Kinematic.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GDR/4. Direct Kinematics.md",
+            "file": "GDR/5. Inverse Kinematic.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDR/4. Direct Kinematics.md",
+                "file": "GDR/5. Inverse Kinematic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDR/4. Direct Kinematics.md",
+                "file": "GDR/5. Inverse Kinematic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,8 +120,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a7965c666092684b",
+  "active": "25f63aeb01c0cf6c",
   "lastOpenFiles": [
+    "GDR/5. Inverse Kinematic.md",
     "GDR/4. Direct Kinematics.md",
     "GDR/3D coords.pdf",
     "3D Computer Vision/2.Calibration.md",
@@ -130,7 +131,6 @@
     "GDR/1.Introduction.md",
     "GDR/2.Subsystems and Components.md",
     "Maths/Derivation.jpg",
-    "3D Computer Vision/1.Camera.md",
-    "3D Computer Vision/3.Homographies.md"
+    "3D Computer Vision/1.Camera.md"
   ]
 }
