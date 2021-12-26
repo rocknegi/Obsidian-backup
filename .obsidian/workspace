@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DSA/Sorting/Bubble Sort.md",
+            "file": "DSA/Sorting/Selection Sort.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DSA/Sorting/Bubble Sort.md",
+            "file": "DSA/Sorting/Selection Sort.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Sorting/Bubble Sort.md",
+                "file": "DSA/Sorting/Selection Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Sorting/Bubble Sort.md",
+                "file": "DSA/Sorting/Selection Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,6 +122,7 @@
   },
   "active": "70d98e4aae0497e5",
   "lastOpenFiles": [
+    "DSA/Sorting/Selection Sort.md",
     "DSA/Sorting/Bubble Sort.md",
     "DSA/Recursion/Techniques.md",
     "C&C++/1.Recursion.md",
@@ -130,7 +131,6 @@
     "GDR/1.Introduction.md",
     "C&C++/recursion/1.Genealising Recursion.md",
     "GDR/5. Inverse Kinematic.md",
-    "Pasted image 20211212223822.png",
-    "Pasted image 20211212221943.png"
+    "Pasted image 20211212223822.png"
   ]
 }
