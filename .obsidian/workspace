@@ -13,6 +13,17 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "7bf70030113604e4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GDR/5. Inverse Kinematic.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334
+    "width": 223
   },
   "right": {
     "id": "30611a976f45d65a",
@@ -109,7 +120,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "70d98e4aae0497e5",
+  "active": "7bf70030113604e4",
   "lastOpenFiles": [
     "GDR/5. Inverse Kinematic.md",
     "GDR/4. Direct Kinematics.md",
