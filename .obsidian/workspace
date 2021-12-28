@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f631735a30262a30",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DSA/Sorting/Bubble Sort.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "70d98e4aae0497e5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DSA/Sorting/Bubble Sort.md",
-            "mode": "source"
+            "file": "GDR/5. Inverse Kinematic.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Sorting/Bubble Sort.md",
+                "file": "GDR/5. Inverse Kinematic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Sorting/Bubble Sort.md",
+                "file": "GDR/5. Inverse Kinematic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,15 +111,15 @@
   },
   "active": "70d98e4aae0497e5",
   "lastOpenFiles": [
+    "GDR/5. Inverse Kinematic.md",
+    "GDR/4. Direct Kinematics.md",
+    "GDR/3.Kinematics-I + II.md",
+    "GDR/2.Subsystems and Components.md",
+    "GDR/1.Introduction.md",
     "DSA/Sorting/Bubble Sort.md",
     "DSA/Sorting/Quick Sort.md",
     "DSA/Sorting/Insertion Sort.md",
     "DSA/Sorting/Merge Two Sorted Arrays.md",
-    "DSA/Sorting/Selection Sort.md",
-    "DSA/Recursion/Techniques.md",
-    "C&C++/1.Recursion.md",
-    "Untitled.md",
-    "images/Pasted image 20211222113439.png",
-    "GDR/1.Introduction.md"
+    "DSA/Sorting/Selection Sort.md"
   ]
 }
