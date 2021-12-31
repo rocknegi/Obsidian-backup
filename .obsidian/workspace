@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "70d98e4aae0497e5",
+        "id": "dceb819ef925f668",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GDR/6.Differential Kinematics.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "7bf70030113604e4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "GDR/6.Differential Kinematics.md",
+            "file": "DSA/Recursion/Techniques.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDR/6.Differential Kinematics.md",
+                "file": "DSA/Recursion/Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDR/6.Differential Kinematics.md",
+                "file": "DSA/Recursion/Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,8 +109,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7bf70030113604e4",
+  "active": "dceb819ef925f668",
   "lastOpenFiles": [
+    "DSA/Recursion/Techniques.md",
     "GDR/6.Differential Kinematics.md",
     "GDR/5. Inverse Kinematic.md",
     "GDR/1.Introduction.md",
@@ -130,7 +120,6 @@
     "GDR/4. Direct Kinematics.md",
     "DSA/Sorting/Bubble Sort.md",
     "DSA/Sorting/Quick Sort.md",
-    "DSA/Sorting/Insertion Sort.md",
-    "DSA/Sorting/Merge Two Sorted Arrays.md"
+    "DSA/Sorting/Insertion Sort.md"
   ]
 }
