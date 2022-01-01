@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GDR/5. Inverse Kinematic.md",
+            "file": "GDR/6.Differential Kinematics.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GDR/4. Direct Kinematics.md",
+            "file": "GDR/6.Differential Kinematics.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDR/5. Inverse Kinematic.md",
+                "file": "GDR/6.Differential Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDR/5. Inverse Kinematic.md",
+                "file": "GDR/6.Differential Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,11 +120,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dceb819ef925f668",
+  "active": "abfdce3eeaf68300",
   "lastOpenFiles": [
-    "GDR/5. Inverse Kinematic.md",
-    "GDR/4. Direct Kinematics.md",
     "GDR/6.Differential Kinematics.md",
+    "GDR/4. Direct Kinematics.md",
+    "GDR/5. Inverse Kinematic.md",
     "DSA/Recursion/Techniques.md",
     "GDR/1.Introduction.md",
     "GDR/2.Subsystems and Components.md",
