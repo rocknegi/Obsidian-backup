@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3D Computer Vision/2.Calibration.md",
-            "mode": "source"
+            "file": "GDR/6.Differential Kinematics.md",
+            "mode": "preview"
           }
         }
       },
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D Computer Vision/2.Calibration.md",
+                "file": "GDR/6.Differential Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D Computer Vision/2.Calibration.md",
+                "file": "GDR/6.Differential Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,11 +121,11 @@
   },
   "active": "dceb819ef925f668",
   "lastOpenFiles": [
+    "GDR/6.Differential Kinematics.md",
+    "GDR/5. Inverse Kinematic.md",
     "3D Computer Vision/2.Calibration.md",
     "3D Computer Vision/3.Homographies.md",
-    "GDR/6.Differential Kinematics.md",
     "GDR/4. Direct Kinematics.md",
-    "GDR/5. Inverse Kinematic.md",
     "Eingebette Systeme/CH-1 Electronical Baiscs.md",
     "3D Computer Vision/1.Camera.md",
     "GDR/1.Introduction.md",
