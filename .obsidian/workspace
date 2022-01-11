@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GDR/7. Velocity.md",
+            "file": "GDR/Dynamic modelling.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDR/7. Velocity.md",
+                "file": "GDR/Dynamic modelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDR/7. Velocity.md",
+                "file": "GDR/Dynamic modelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,6 +111,7 @@
   },
   "active": "dceb819ef925f668",
   "lastOpenFiles": [
+    "GDR/Dynamic modelling.md",
     "GDR/7. Velocity.md",
     "GDR/6.Differential Kinematics.md",
     "GDR/5. Inverse Kinematic.md",
@@ -119,7 +120,6 @@
     "GDR/4. Direct Kinematics.md",
     "Eingebette Systeme/CH-1 Electronical Baiscs.md",
     "3D Computer Vision/1.Camera.md",
-    "GDR/1.Introduction.md",
-    "GDR/2.Subsystems and Components.md"
+    "GDR/1.Introduction.md"
   ]
 }
