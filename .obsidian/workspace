@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GDR/Dynamic modelling.md",
-            "mode": "source"
+            "file": "GDR/6.Differential Kinematics.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDR/Dynamic modelling.md",
+                "file": "GDR/6.Differential Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDR/Dynamic modelling.md",
+                "file": "GDR/6.Differential Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,9 +111,9 @@
   },
   "active": "dceb819ef925f668",
   "lastOpenFiles": [
+    "GDR/6.Differential Kinematics.md",
     "GDR/Dynamic modelling.md",
     "GDR/7. Velocity.md",
-    "GDR/6.Differential Kinematics.md",
     "GDR/5. Inverse Kinematic.md",
     "3D Computer Vision/2.Calibration.md",
     "3D Computer Vision/3.Homographies.md",
