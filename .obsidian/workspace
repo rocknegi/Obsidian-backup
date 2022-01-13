@@ -7,9 +7,10 @@
         "id": "dceb819ef925f668",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Maths/Integration.jpg"
+            "file": "3D Computer Vision/2.Calibration.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Integration.jpg",
+                "file": "3D Computer Vision/2.Calibration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Integration.jpg",
+                "file": "3D Computer Vision/2.Calibration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +111,8 @@
   },
   "active": "dceb819ef925f668",
   "lastOpenFiles": [
+    "3D Computer Vision/2.Calibration.md",
+    "3D Computer Vision/1.Camera.md",
     "Maths/Integration.jpg",
     "Maths/Derivation.jpg",
     "GDR/7. Velocity.md",
@@ -117,8 +120,6 @@
     "GDR/5. Inverse Kinematic.md",
     "GDR/4. Direct Kinematics.md",
     "GDR/Dynamic modelling.md",
-    "3D Computer Vision/2.Calibration.md",
-    "3D Computer Vision/3.Homographies.md",
-    "Eingebette Systeme/CH-1 Electronical Baiscs.md"
+    "3D Computer Vision/3.Homographies.md"
   ]
 }
