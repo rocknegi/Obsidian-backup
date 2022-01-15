@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3D Computer Vision/2.Calibration.md",
+            "file": "OMAA/Terminology.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "177f5aca064ade84",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "OMAA/Terminology.md",
             "mode": "source"
           }
         }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D Computer Vision/2.Calibration.md",
+                "file": "OMAA/Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D Computer Vision/2.Calibration.md",
+                "file": "OMAA/Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,8 +120,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dceb819ef925f668",
+  "active": "177f5aca064ade84",
   "lastOpenFiles": [
+    "OMAA/Terminology.md",
     "3D Computer Vision/2.Calibration.md",
     "3D Computer Vision/1.Camera.md",
     "Maths/Integration.jpg",
@@ -119,7 +131,6 @@
     "GDR/6.Differential Kinematics.md",
     "GDR/5. Inverse Kinematic.md",
     "GDR/4. Direct Kinematics.md",
-    "GDR/Dynamic modelling.md",
-    "3D Computer Vision/3.Homographies.md"
+    "GDR/Dynamic modelling.md"
   ]
 }
