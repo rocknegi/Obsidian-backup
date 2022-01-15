@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/Terminology.md",
+            "file": "OMQA/2.Supporting methods.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/Terminology.md",
+            "file": "OMQA/2.Supporting methods.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OMQA/Terminology.md",
+                "file": "OMQA/2.Supporting methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OMQA/Terminology.md",
+                "file": "OMQA/2.Supporting methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,6 +122,7 @@
   },
   "active": "177f5aca064ade84",
   "lastOpenFiles": [
+    "OMQA/2.Supporting methods.md",
     "OMQA/Terminology.md",
     "3D Computer Vision/2.Calibration.md",
     "3D Computer Vision/1.Camera.md",
@@ -130,7 +131,6 @@
     "GDR/7. Velocity.md",
     "GDR/6.Differential Kinematics.md",
     "GDR/5. Inverse Kinematic.md",
-    "GDR/4. Direct Kinematics.md",
-    "GDR/Dynamic modelling.md"
+    "GDR/4. Direct Kinematics.md"
   ]
 }
