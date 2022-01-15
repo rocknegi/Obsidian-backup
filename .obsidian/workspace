@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMAA/Terminology.md",
+            "file": "OMQA/Terminology.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMAA/Terminology.md",
+            "file": "OMQA/Terminology.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OMAA/Terminology.md",
+                "file": "OMQA/Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OMAA/Terminology.md",
+                "file": "OMQA/Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
   },
   "active": "177f5aca064ade84",
   "lastOpenFiles": [
-    "OMAA/Terminology.md",
+    "OMQA/Terminology.md",
     "3D Computer Vision/2.Calibration.md",
     "3D Computer Vision/1.Camera.md",
     "Maths/Integration.jpg",
