@@ -19,3 +19,10 @@ Safety is associated with Embedded systems.
 ![[Pasted image 20220116174540.png]]
 
 ![[Pasted image 20220116174619.png]]
+
+![[Pasted image 20220116185211.png]]
+
+![[Pasted image 20220116185507.png]]
+![[Pasted image 20220116185753.png]]
+![[Pasted image 20220116185825.png]]
+![[Pasted image 20220116185946.png]]
