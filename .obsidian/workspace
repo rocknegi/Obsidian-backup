@@ -6,6 +6,7 @@
       {
         "id": "dceb819ef925f668",
         "type": "leaf",
+        "dimension": 44.777031154551004,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,6 +18,7 @@
       {
         "id": "177f5aca064ade84",
         "type": "leaf",
+        "dimension": 55.222968845448996,
         "state": {
           "type": "markdown",
           "state": {
@@ -123,6 +125,7 @@
   "active": "177f5aca064ade84",
   "lastOpenFiles": [
     "OMQA/Exercise 1.md",
+    "Pasted image 20220115173422.png",
     "OMQA/1.Terminology.md",
     "OMQA/2.Supporting methods.md",
     "3D Computer Vision/2.Calibration.md",
@@ -130,7 +133,6 @@
     "Maths/Integration.jpg",
     "Maths/Derivation.jpg",
     "GDR/7. Velocity.md",
-    "GDR/6.Differential Kinematics.md",
-    "GDR/5. Inverse Kinematic.md"
+    "GDR/6.Differential Kinematics.md"
   ]
 }
