@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/Exercise 1.md",
+            "file": "OMQA/3.QFD.md",
             "mode": "preview"
           }
         }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/Exercise 1.md",
+            "file": "OMQA/3.QFD.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OMQA/Exercise 1.md",
+                "file": "OMQA/3.QFD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OMQA/Exercise 1.md",
+                "file": "OMQA/3.QFD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,6 +124,7 @@
   },
   "active": "177f5aca064ade84",
   "lastOpenFiles": [
+    "OMQA/3.QFD.md",
     "OMQA/Exercise 1.md",
     "OMQA/1.Terminology.md",
     "Pasted image 20220115173422.png",
@@ -132,7 +133,6 @@
     "3D Computer Vision/1.Camera.md",
     "Maths/Integration.jpg",
     "Maths/Derivation.jpg",
-    "GDR/7. Velocity.md",
-    "GDR/6.Differential Kinematics.md"
+    "GDR/7. Velocity.md"
   ]
 }
