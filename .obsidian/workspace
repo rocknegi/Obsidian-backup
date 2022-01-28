@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/4.Dynamic Testing.md",
+            "file": "OMQA/5.inspection and reviews.md",
             "mode": "preview"
           }
         }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/4.Dynamic Testing.md",
+            "file": "OMQA/5.inspection and reviews.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OMQA/4.Dynamic Testing.md",
+                "file": "OMQA/5.inspection and reviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OMQA/4.Dynamic Testing.md",
+                "file": "OMQA/5.inspection and reviews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,8 +122,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dceb819ef925f668",
+  "active": "177f5aca064ade84",
   "lastOpenFiles": [
+    "OMQA/5.inspection and reviews.md",
     "OMQA/4.Dynamic Testing.md",
     "OMQA/2.Supporting methods.md",
     "OMQA/1.Terminology.md",
@@ -132,7 +133,6 @@
     "Pasted image 20220120172338.png",
     "Pasted image 20220115173422.png",
     "3D Computer Vision/2.Calibration.md",
-    "3D Computer Vision/1.Camera.md",
-    "Maths/Integration.jpg"
+    "3D Computer Vision/1.Camera.md"
   ]
 }
