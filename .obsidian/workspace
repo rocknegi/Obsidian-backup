@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GDR/9.CP.md",
+            "file": "OMQA/6.Data flow and anomolies.md",
             "mode": "preview"
           }
         }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GDR/9.CP.md",
+            "file": "OMQA/6.Data flow and anomolies.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDR/9.CP.md",
+                "file": "OMQA/6.Data flow and anomolies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDR/9.CP.md",
+                "file": "OMQA/6.Data flow and anomolies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,15 +124,15 @@
   },
   "active": "177f5aca064ade84",
   "lastOpenFiles": [
+    "OMQA/6.Data flow and anomolies.md",
+    "OMQA/5.inspection and reviews.md",
     "GDR/9.CP.md",
     "GDR/8.Dynamic modelling.md",
     "GDR/6.Differential Kinematics.md",
     "GDR/7. Velocity.md",
-    "OMQA/5.inspection and reviews.md",
     "OMQA/4.Dynamic Testing.md",
     "OMQA/2.Supporting methods.md",
     "OMQA/1.Terminology.md",
-    "OMQA/3.QFD.md",
-    "OMQA/Exercise 1.md"
+    "OMQA/3.QFD.md"
   ]
 }
