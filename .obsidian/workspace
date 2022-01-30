@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/7.Slicing.md",
+            "file": "OMQA/3.QFD.md",
             "mode": "preview"
           }
         }
@@ -20,9 +20,10 @@
         "type": "leaf",
         "dimension": 55.222968845448996,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "images/Pasted image 20220116185507.png"
+            "file": "OMQA/3.QFD.md",
+            "mode": "source"
           }
         }
       }
@@ -80,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20220116185507.png",
+                "file": "OMQA/3.QFD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20220116185507.png",
+                "file": "OMQA/3.QFD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,8 +122,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "177f5aca064ade84",
+  "active": "dceb819ef925f668",
   "lastOpenFiles": [
+    "OMQA/3.QFD.md",
+    "OMQA/7.Slicing.md",
     "images/Pasted image 20220116185507.png",
     "images/Pasted image 20220116185753.png",
     "images/Pasted image 20220116185825.png",
@@ -130,8 +133,6 @@
     "images/Pasted image 20220116190355.png",
     "images/Pasted image 20220116190407.png",
     "images/Pasted image 20220116190416.png",
-    "images/Pasted image 20220116190441.png",
-    "images/Pasted image 20220120172518.png",
-    "images/Pasted image 20220129161635.png"
+    "images/Pasted image 20220116190441.png"
   ]
 }
