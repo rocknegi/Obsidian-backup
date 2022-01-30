@@ -20,10 +20,9 @@
         "type": "leaf",
         "dimension": 55.222968845448996,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "OMQA/7.Slicing.md",
-            "mode": "source"
+            "file": "images/Pasted image 20220116185507.png"
           }
         }
       }
@@ -81,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OMQA/7.Slicing.md",
+                "file": "images/Pasted image 20220116185507.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OMQA/7.Slicing.md",
+                "file": "images/Pasted image 20220116185507.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,15 +123,15 @@
   },
   "active": "177f5aca064ade84",
   "lastOpenFiles": [
-    "OMQA/7.Slicing.md",
-    "OMQA/6.Data flow and anomolies.md",
-    "OMQA/5.inspection and reviews.md",
-    "GDR/9.CP.md",
-    "GDR/8.Dynamic modelling.md",
-    "GDR/6.Differential Kinematics.md",
-    "GDR/7. Velocity.md",
-    "OMQA/4.Dynamic Testing.md",
-    "OMQA/2.Supporting methods.md",
-    "OMQA/1.Terminology.md"
+    "images/Pasted image 20220116185507.png",
+    "images/Pasted image 20220116185753.png",
+    "images/Pasted image 20220116185825.png",
+    "images/Pasted image 20220116190326.png",
+    "images/Pasted image 20220116190355.png",
+    "images/Pasted image 20220116190407.png",
+    "images/Pasted image 20220116190416.png",
+    "images/Pasted image 20220116190441.png",
+    "images/Pasted image 20220120172518.png",
+    "images/Pasted image 20220129161635.png"
   ]
 }
