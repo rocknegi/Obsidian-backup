@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/6.Data flow and anomolies.md",
+            "file": "OMQA/7.Slicing.md",
             "mode": "preview"
           }
         }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/6.Data flow and anomolies.md",
+            "file": "OMQA/7.Slicing.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OMQA/6.Data flow and anomolies.md",
+                "file": "OMQA/7.Slicing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OMQA/6.Data flow and anomolies.md",
+                "file": "OMQA/7.Slicing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,6 +124,7 @@
   },
   "active": "177f5aca064ade84",
   "lastOpenFiles": [
+    "OMQA/7.Slicing.md",
     "OMQA/6.Data flow and anomolies.md",
     "OMQA/5.inspection and reviews.md",
     "GDR/9.CP.md",
@@ -132,7 +133,6 @@
     "GDR/7. Velocity.md",
     "OMQA/4.Dynamic Testing.md",
     "OMQA/2.Supporting methods.md",
-    "OMQA/1.Terminology.md",
-    "OMQA/3.QFD.md"
+    "OMQA/1.Terminology.md"
   ]
 }
