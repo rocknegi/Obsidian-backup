@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/4.Dynamic Testing.md",
+            "file": "RTS/4.Multiplrocessor.md",
             "mode": "preview"
           }
         }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/4.Dynamic Testing.md",
+            "file": "RTS/4.Multiplrocessor.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OMQA/4.Dynamic Testing.md",
+                "file": "RTS/4.Multiplrocessor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OMQA/4.Dynamic Testing.md",
+                "file": "RTS/4.Multiplrocessor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,6 +124,7 @@
   },
   "active": "177f5aca064ade84",
   "lastOpenFiles": [
+    "RTS/4.Multiplrocessor.md",
     "OMQA/4.Dynamic Testing.md",
     "OMQA/3.QFD.md",
     "OMQA/7.Slicing.md",
@@ -132,7 +133,6 @@
     "images/Pasted image 20220116185825.png",
     "images/Pasted image 20220116190326.png",
     "images/Pasted image 20220116190355.png",
-    "images/Pasted image 20220116190407.png",
-    "images/Pasted image 20220116190416.png"
+    "images/Pasted image 20220116190407.png"
   ]
 }
