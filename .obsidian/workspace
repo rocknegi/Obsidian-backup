@@ -6,23 +6,22 @@
       {
         "id": "dceb819ef925f668",
         "type": "leaf",
-        "dimension": 44.777031154551004,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RTS/4.Multiplrocessor.md",
-            "mode": "preview"
+            "file": "RTS/5.Virtualization and Hypervisor.md",
+            "mode": "source"
           }
         }
       },
       {
-        "id": "177f5aca064ade84",
+        "id": "b8dcd0e0260f4584",
         "type": "leaf",
-        "dimension": 55.222968845448996,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "images/Pasted image 20220202230941.png"
+            "file": "RTS/5.Virtualization and Hypervisor.md",
+            "mode": "source"
           }
         }
       }
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20220202230941.png",
+                "file": "RTS/5.Virtualization and Hypervisor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20220202230941.png",
+                "file": "RTS/5.Virtualization and Hypervisor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "177f5aca064ade84",
+  "active": "b8dcd0e0260f4584",
   "lastOpenFiles": [
-    "images/Pasted image 20220202230941.png",
+    "RTS/5.Virtualization and Hypervisor.md",
     "RTS/4.Multiplrocessor.md",
+    "images/Pasted image 20220202230941.png",
     "OMQA/4.Dynamic Testing.md",
     "OMQA/3.QFD.md",
     "OMQA/7.Slicing.md",
     "images/Pasted image 20220116185507.png",
     "images/Pasted image 20220116185753.png",
     "images/Pasted image 20220116185825.png",
-    "images/Pasted image 20220116190326.png",
-    "images/Pasted image 20220116190355.png"
+    "images/Pasted image 20220116190326.png"
   ]
 }
