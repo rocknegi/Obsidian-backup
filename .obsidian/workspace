@@ -6,11 +6,11 @@
       {
         "id": "dceb819ef925f668",
         "type": "leaf",
-        "dimension": 42.70006108735492,
+        "dimension": 50.763591936469155,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RTS/6. CAN.md",
+            "file": "RTS/7. TSN.md",
             "mode": "preview"
           }
         }
@@ -18,11 +18,11 @@
       {
         "id": "b8dcd0e0260f4584",
         "type": "leaf",
-        "dimension": 57.299938912645096,
+        "dimension": 49.23640806353085,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RTS/6. CAN.md",
+            "file": "RTS/7. TSN.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RTS/6. CAN.md",
+                "file": "RTS/7. TSN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RTS/6. CAN.md",
+                "file": "RTS/7. TSN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,6 +124,7 @@
   },
   "active": "b8dcd0e0260f4584",
   "lastOpenFiles": [
+    "RTS/7. TSN.md",
     "RTS/6. CAN.md",
     "RTS/5.Virtualization and Hypervisor.md",
     "RTS/4.Multiplrocessor.md",
@@ -132,7 +133,6 @@
     "OMQA/4.Dynamic Testing.md",
     "OMQA/3.QFD.md",
     "OMQA/7.Slicing.md",
-    "images/Pasted image 20220116185507.png",
-    "images/Pasted image 20220116185753.png"
+    "images/Pasted image 20220116185507.png"
   ]
 }
