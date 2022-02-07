@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "dceb819ef925f668",
+        "id": "82d13fe2cff29142",
         "type": "leaf",
-        "dimension": 50.763591936469155,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,9 +15,8 @@
         }
       },
       {
-        "id": "b8dcd0e0260f4584",
+        "id": "6053c111432080de",
         "type": "leaf",
-        "dimension": 49.23640806353085,
         "state": {
           "type": "markdown",
           "state": {
@@ -122,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b8dcd0e0260f4584",
+  "active": "6053c111432080de",
   "lastOpenFiles": [
     "RTS/7. TSN.md",
+    "OMQA/5.inspection and reviews.md",
+    "OMQA/6.Data flow and anomolies.md",
+    "OMQA/7.Slicing.md",
+    "OMQA/4.Dynamic Testing.md",
     "RTS/6. CAN.md",
     "RTS/5.Virtualization and Hypervisor.md",
     "RTS/4.Multiplrocessor.md",
     "images/Pasted image 20220203112741.png",
-    "images/Pasted image 20220202230941.png",
-    "OMQA/4.Dynamic Testing.md",
-    "OMQA/3.QFD.md",
-    "OMQA/7.Slicing.md",
-    "images/Pasted image 20220116185507.png"
+    "images/Pasted image 20220202230941.png"
   ]
 }
