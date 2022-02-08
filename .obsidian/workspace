@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/4.Dynamic Testing.md",
+            "file": "OMQA/EX3.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/4.Dynamic Testing.md",
+            "file": "OMQA/EX3.md",
             "mode": "source"
           }
         }
@@ -63,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223
+    "width": 260
   },
   "right": {
     "id": "30611a976f45d65a",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OMQA/4.Dynamic Testing.md",
+                "file": "OMQA/EX3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OMQA/4.Dynamic Testing.md",
+                "file": "OMQA/EX3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,8 +120,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "82d13fe2cff29142",
+  "active": "6053c111432080de",
   "lastOpenFiles": [
+    "OMQA/EX3.md",
+    "OMQA/EX1.md",
     "OMQA/4.Dynamic Testing.md",
     "OMQA/5.inspection and reviews.md",
     "RTS/7. TSN.md",
@@ -129,8 +131,6 @@
     "OMQA/7.Slicing.md",
     "RTS/6. CAN.md",
     "RTS/5.Virtualization and Hypervisor.md",
-    "RTS/4.Multiplrocessor.md",
-    "images/Pasted image 20220203112741.png",
-    "images/Pasted image 20220202230941.png"
+    "RTS/4.Multiplrocessor.md"
   ]
 }
