@@ -123,6 +123,7 @@
   "active": "6053c111432080de",
   "lastOpenFiles": [
     "RTS/9. Overload Handling.md",
+    "DSA/Recursion/Techniques.md",
     "RTS/8.Flexibility for Time-Triggered Scheduling.md",
     "OMQA/4.Dynamic Testing.md",
     "RTS/7.  Real-Time Networks.md",
@@ -130,7 +131,6 @@
     "OMQA/3.QFD.md",
     "OMQA/EX3.md",
     "OMQA/EX1.md",
-    "OMQA/5.inspection and reviews.md",
-    "OMQA/6.Data flow and anomolies.md"
+    "OMQA/5.inspection and reviews.md"
   ]
 }
