@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/8.Measurement.md",
+            "file": "OMQA/8.Software Measurement.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/8.Measurement.md",
+            "file": "OMQA/8.Software Measurement.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OMQA/8.Measurement.md",
+                "file": "OMQA/8.Software Measurement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OMQA/8.Measurement.md",
+                "file": "OMQA/8.Software Measurement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
   },
   "active": "6053c111432080de",
   "lastOpenFiles": [
-    "OMQA/8.Measurement.md",
+    "OMQA/8.Software Measurement.md",
     "RTS/9. Overload Handling.md",
     "DSA/Recursion/Techniques.md",
     "RTS/8.Flexibility for Time-Triggered Scheduling.md",
