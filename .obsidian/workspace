@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/10. Standards.md",
+            "file": "OMQA/5.inspection and reviews.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/10. Standards.md",
+            "file": "OMQA/5.inspection and reviews.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OMQA/10. Standards.md",
+                "file": "OMQA/5.inspection and reviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OMQA/10. Standards.md",
+                "file": "OMQA/5.inspection and reviews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6053c111432080de",
+  "active": "82d13fe2cff29142",
   "lastOpenFiles": [
+    "OMQA/5.inspection and reviews.md",
+    "OMQA/EX4.md",
     "OMQA/10. Standards.md",
+    "OMQA/EX3.md",
     "OMQA/9.Software Process Assessment.md",
     "RTS/9. Overload Handling.md",
     "OMQA/8.Software Measurement.md",
     "DSA/Recursion/Techniques.md",
     "RTS/8.Flexibility for Time-Triggered Scheduling.md",
-    "OMQA/4.Dynamic Testing.md",
-    "RTS/7.  Real-Time Networks.md",
-    "images/Pasted image 20220206163927.png",
-    "OMQA/3.QFD.md"
+    "OMQA/4.Dynamic Testing.md"
   ]
 }
