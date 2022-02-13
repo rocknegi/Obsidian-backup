@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/8.Software Measurement.md",
+            "file": "OMQA/9.Software Process Assessment.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/8.Software Measurement.md",
+            "file": "OMQA/9.Software Process Assessment.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OMQA/8.Software Measurement.md",
+                "file": "OMQA/9.Software Process Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OMQA/8.Software Measurement.md",
+                "file": "OMQA/9.Software Process Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,6 +122,7 @@
   },
   "active": "6053c111432080de",
   "lastOpenFiles": [
+    "OMQA/9.Software Process Assessment.md",
     "OMQA/8.Software Measurement.md",
     "RTS/9. Overload Handling.md",
     "DSA/Recursion/Techniques.md",
@@ -130,7 +131,6 @@
     "RTS/7.  Real-Time Networks.md",
     "images/Pasted image 20220206163927.png",
     "OMQA/3.QFD.md",
-    "OMQA/EX3.md",
-    "OMQA/EX1.md"
+    "OMQA/EX3.md"
   ]
 }
