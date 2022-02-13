@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/7.Slicing.md",
+            "file": "OMQA/EX4.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OMQA/6.Data flow and anomolies.md",
+            "file": "OMQA/EX4.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OMQA/7.Slicing.md",
+                "file": "OMQA/EX4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OMQA/7.Slicing.md",
+                "file": "OMQA/EX4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,12 +120,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "82d13fe2cff29142",
+  "active": "6053c111432080de",
   "lastOpenFiles": [
-    "OMQA/7.Slicing.md",
-    "OMQA/6.Data flow and anomolies.md",
-    "OMQA/5.inspection and reviews.md",
     "OMQA/EX4.md",
+    "OMQA/6.Data flow and anomolies.md",
+    "OMQA/7.Slicing.md",
+    "OMQA/5.inspection and reviews.md",
     "OMQA/10. Standards.md",
     "OMQA/EX3.md",
     "OMQA/9.Software Process Assessment.md",
