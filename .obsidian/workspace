@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RTS/9. Overload Handling.md",
+            "file": "RTS/10.Resource Management.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RTS/9. Overload Handling.md",
+            "file": "RTS/10.Resource Management.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RTS/9. Overload Handling.md",
+                "file": "RTS/10.Resource Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RTS/9. Overload Handling.md",
+                "file": "RTS/10.Resource Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,10 +120,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6053c111432080de",
+  "active": "82d13fe2cff29142",
   "lastOpenFiles": [
-    "RTS/9. Overload Handling.md",
     "RTS/10.Resource Management.md",
+    "RTS/9. Overload Handling.md",
     "RTS/3.Aperiodic EDF.md",
     "RTS/2. Aperiodic FPS.md",
     "images/Pasted image 20220215020334.png",
