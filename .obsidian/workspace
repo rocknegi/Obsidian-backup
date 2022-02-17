@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RTS/10.Resource Management.md",
+            "file": "RTS/11.Multicore.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RTS/10.Resource Management.md",
+            "file": "RTS/11.Multicore.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RTS/10.Resource Management.md",
+                "file": "RTS/11.Multicore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RTS/10.Resource Management.md",
+                "file": "RTS/11.Multicore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,6 +122,7 @@
   },
   "active": "6053c111432080de",
   "lastOpenFiles": [
+    "RTS/11.Multicore.md",
     "RTS/10.Resource Management.md",
     "RTS/9. Overload Handling.md",
     "RTS/3.Aperiodic EDF.md",
@@ -130,7 +131,6 @@
     "OMQA/EX4.md",
     "OMQA/6.Data flow and anomolies.md",
     "OMQA/7.Slicing.md",
-    "OMQA/5.inspection and reviews.md",
-    "OMQA/10. Standards.md"
+    "OMQA/5.inspection and reviews.md"
   ]
 }
