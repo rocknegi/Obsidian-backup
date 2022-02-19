@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RTS/4.Multiplrocessor.md",
+            "file": "RTS/6. CAN.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RTS/4.Multiplrocessor.md",
+                "file": "RTS/6. CAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RTS/4.Multiplrocessor.md",
+                "file": "RTS/6. CAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,6 +111,8 @@
   },
   "active": "82d13fe2cff29142",
   "lastOpenFiles": [
+    "RTS/6. CAN.md",
+    "RTS/5.Virtualization and Hypervisor.md",
     "RTS/4.Multiplrocessor.md",
     "RTS/3.Aperiodic EDF.md",
     "RTS/2. Aperiodic FPS.md",
@@ -118,8 +120,6 @@
     "RTS/10.Resource Management.md",
     "RTS/9. Overload Handling.md",
     "images/Pasted image 20220215020334.png",
-    "OMQA/EX4.md",
-    "OMQA/6.Data flow and anomolies.md",
-    "OMQA/7.Slicing.md"
+    "OMQA/EX4.md"
   ]
 }
