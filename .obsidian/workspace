@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RTS/3.Aperiodic EDF.md",
+            "file": "RTS/4.Multiplrocessor.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RTS/3.Aperiodic EDF.md",
+                "file": "RTS/4.Multiplrocessor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RTS/3.Aperiodic EDF.md",
+                "file": "RTS/4.Multiplrocessor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,6 +111,7 @@
   },
   "active": "89b2eb963b5c1018",
   "lastOpenFiles": [
+    "RTS/4.Multiplrocessor.md",
     "RTS/3.Aperiodic EDF.md",
     "RTS/2. Aperiodic FPS.md",
     "RTS/11.Multicore.md",
@@ -119,7 +120,6 @@
     "RTS/6. CAN.md",
     "RTS/9. Overload Handling.md",
     "RTS/10.Resource Management.md",
-    "RTS/7.  Real-Time Networks.md",
-    "RTS/8.Flexibility for Time-Triggered Scheduling.md"
+    "RTS/7.  Real-Time Networks.md"
   ]
 }
