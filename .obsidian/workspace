@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RTS/10.Resource Management.md",
+            "file": "RTS/9. Overload Handling.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RTS/10.Resource Management.md",
+                "file": "RTS/9. Overload Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RTS/10.Resource Management.md",
+                "file": "RTS/9. Overload Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,9 +111,9 @@
   },
   "active": "89b2eb963b5c1018",
   "lastOpenFiles": [
-    "RTS/10.Resource Management.md",
     "RTS/9. Overload Handling.md",
     "RTS/8.Flexibility for Time-Triggered Scheduling.md",
+    "RTS/10.Resource Management.md",
     "RTS/11.Multicore.md",
     "RTS/6. CAN.md",
     "RTS/5.Virtualization and Hypervisor.md",
