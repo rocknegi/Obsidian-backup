@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SRES/3.Risk Acceptance.md",
+            "file": "GES/7.signal processing.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SRES/3.Risk Acceptance.md",
+            "file": "GES/7.signal processing.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SRES/3.Risk Acceptance.md",
+                "file": "GES/7.signal processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SRES/3.Risk Acceptance.md",
+                "file": "GES/7.signal processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,15 +122,15 @@
   },
   "active": "be64e8c4e454c457",
   "lastOpenFiles": [
-    "SRES/3.Risk Acceptance.md",
-    "SRES/1.Terminology.md",
-    "OMQA/EX1.md",
+    "GES/7.signal processing.md",
+    "images/Pasted image 20220306113219.png",
+    "GES/3.Electrical Networks.md",
+    "GDR/4. Direct Kinematics.md",
+    "GES/1.Electronical Baiscs.md",
     "SRES/Ex1.md",
+    "OMQA/EX1.md",
+    "SRES/1.Terminology.md",
     "SRES/7.Reliability.md",
-    "OMQA/1.Terminology.md",
-    "OMQA/2.Supporting methods.md",
-    "SRES/4.Models.md",
-    "SRES/6.FTA.md",
     "SRES/5.FMECA.md"
   ]
 }
