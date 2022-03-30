@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GES/7.signal processing.md",
+            "file": "GES/8.Errors.md",
             "mode": "preview"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GES/7.signal processing.md",
+            "file": "GES/8.Errors.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GES/7.signal processing.md",
+                "file": "GES/8.Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GES/7.signal processing.md",
+                "file": "GES/8.Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,6 +122,7 @@
   },
   "active": "be64e8c4e454c457",
   "lastOpenFiles": [
+    "GES/8.Errors.md",
     "GES/7.signal processing.md",
     "images/Pasted image 20220306113219.png",
     "GES/3.Electrical Networks.md",
@@ -130,7 +131,6 @@
     "SRES/Ex1.md",
     "OMQA/EX1.md",
     "SRES/1.Terminology.md",
-    "SRES/7.Reliability.md",
-    "SRES/5.FMECA.md"
+    "SRES/7.Reliability.md"
   ]
 }
