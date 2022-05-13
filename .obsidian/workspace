@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GES/7.signal processing.md",
-            "mode": "preview"
+            "file": "ML1/1. Mathematics for Machine Learning.md",
+            "mode": "source"
           }
         }
       },
       {
-        "id": "be64e8c4e454c457",
+        "id": "05f265ee23867b3d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GES/7.signal processing.md",
-            "mode": "source"
+            "file": "ML1/1. Mathematics for Machine Learning.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GES/7.signal processing.md",
+                "file": "ML1/1. Mathematics for Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GES/7.signal processing.md",
+                "file": "ML1/1. Mathematics for Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89b2eb963b5c1018",
+  "active": "05f265ee23867b3d",
   "lastOpenFiles": [
+    "ML1/1. Mathematics for Machine Learning.md",
+    "GDR/3.Kinematics-I + II.md",
+    "GDR/2.Subsystems and Components.md",
     "GES/7.signal processing.md",
-    "GES/10.Exam Prep.md",
-    "GDR/References.md",
-    "RTS/6. CAN.md",
-    "RTS/7.  Real-Time Networks.md",
-    "RTS/8.Flexibility for Time-Triggered Scheduling.md",
-    "RTS/9. Overload Handling.md",
-    "RTS/10.Resource Management.md",
-    "RTS/11.Multicore.md",
+    "GES/11.Exam Prep.md",
+    "GES/6.control theory.md",
+    "GES/3.Electrical Networks.md",
+    "GES/1.Electronical Baiscs.md",
+    "GES/10. ES.md",
     "GES/8.Errors.md"
   ]
 }
