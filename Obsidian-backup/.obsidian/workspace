@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "bf8286c55a9faa84",
+    "type": "split",
+    "children": [
+      {
+        "id": "f009a3469f2bf917",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ML1/1. Mathematics for Machine Learning.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3eab1aa102f7d4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b50e3c9d11bb8cc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05360f68120e8551",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a3bed956879134d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "603e182fbb89c6e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2761b4b879ff6a37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5605c73b4ff49e1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ML1/1. Mathematics for Machine Learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f009a3469f2bf917",
+  "lastOpenFiles": [
+    "ML1/1. Mathematics for Machine Learning.md"
+  ]
+}
