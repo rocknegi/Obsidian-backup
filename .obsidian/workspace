@@ -1,21 +1,10 @@
 {
   "main": {
-    "id": "6b93c779825a00b7",
+    "id": "c8942c6b571f19c1",
     "type": "split",
     "children": [
       {
-        "id": "89b2eb963b5c1018",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ML1/2.SVM.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "05f265ee23867b3d",
+        "id": "0769dcf92ca6466d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -29,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c285544bd507fd66",
+    "id": "aea7824947450e43",
     "type": "split",
     "children": [
       {
-        "id": "8daefdcfb1c5d0e0",
+        "id": "3211ad71d27acfff",
         "type": "tabs",
         "children": [
           {
-            "id": "da42484831768d2a",
+            "id": "c063ef4e79dd690f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,12 +34,12 @@
             }
           },
           {
-            "id": "e4de86ff1c56767b",
+            "id": "47ecdd4ccf2af4a7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "non fun",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,18 +52,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270
+    "width": 300
   },
   "right": {
-    "id": "30611a976f45d65a",
+    "id": "206d598d20ee6ba5",
     "type": "split",
     "children": [
       {
-        "id": "158f810d2f74ef16",
+        "id": "479c78a82fd2a621",
         "type": "tabs",
         "children": [
           {
-            "id": "8e37d00f81a4d6ba",
+            "id": "c6c2a8c2695370bb",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -89,29 +78,6 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "e154287ad40b92bc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "ML1/2.SVM.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "aa8b5c2c22130c3d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
           }
         ]
       }
@@ -120,17 +86,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05f265ee23867b3d",
+  "active": "0769dcf92ca6466d",
   "lastOpenFiles": [
-    "ML1/2.SVM.md",
-    "GDR/4. Direct Kinematics.md",
-    "ML1/1. Mathematics for Machine Learning.md",
-    "GES/11.Exam Prep.md",
-    "GDR/1.Introduction.md",
-    "GDR/5. Inverse Kinematic.md",
-    "GDR/9.CP.md",
-    "GDR/8.Dynamic modelling.md",
-    "GDR/7. Velocity.md",
-    "GDR/6.Differential Kinematics.md"
+    "ML1/2.SVM.md"
   ]
 }
