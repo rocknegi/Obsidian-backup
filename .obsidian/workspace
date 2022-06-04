@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML1/2.SVM.md",
+            "file": "ML1/2.Linear classifier.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 281
   },
   "right": {
     "id": "206d598d20ee6ba5",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML1/2.SVM.md",
+                "file": "ML1/2.Linear classifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,6 +76,29 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16a7252bf56c9961",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ML1/2.Linear classifier.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "834463dadddfbc52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -88,6 +111,9 @@
   },
   "active": "0769dcf92ca6466d",
   "lastOpenFiles": [
-    "ML1/2.SVM.md"
+    "ML1/2.Linear classifier.md",
+    "ML1/3.SVM.md",
+    "ML1/1. Mathematics for Machine Learning.md",
+    "ML1/0.Notations.md"
   ]
 }
