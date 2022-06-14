@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML1/5.Kernel.md",
+            "file": "ML1/6.Deep learning.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "98de0f11fcbc6acc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ML1/6.Deep learning.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML1/5.Kernel.md",
+                "file": "ML1/6.Deep learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML1/5.Kernel.md",
+                "file": "ML1/6.Deep learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,6 +122,7 @@
   },
   "active": "cf619524bdde2425",
   "lastOpenFiles": [
+    "ML1/6.Deep learning.md",
     "ML1/5.Kernel.md",
     "ML1/4.Optimisations.md",
     "ML1/3.SVM.md",
