@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML1/7.Decision trees.md",
+            "file": "ML1/10.practice.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML1/7.Decision trees.md",
+                "file": "ML1/10.practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML1/7.Decision trees.md",
+                "file": "ML1/10.practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "98de0f11fcbc6acc",
   "lastOpenFiles": [
-    "Untitled.md",
+    "ML1/6.Deep learning.md",
     "ML1/7.Decision trees.md",
+    "ML1/10.practice.md",
+    "Untitled.md",
     "ML1/1. Mathematics for Machine Learning.md",
     "ML1/0.Notations.md",
     "ML1/2.Linear classifier.md",
     "ML1/3.SVM.md",
     "ML1/4.Optimisations.md",
-    "ML1/5.Kernel.md",
-    "ML1/6.Deep learning.md",
-    "ML1/10.practice.md"
+    "ML1/5.Kernel.md"
   ]
 }
