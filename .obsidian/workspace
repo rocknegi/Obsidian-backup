@@ -7,8 +7,22 @@
         "id": "98de0f11fcbc6acc",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "images/Pasted image 20220924112308.png"
+          }
+        }
+      },
+      {
+        "id": "03ab732688158e39",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "EI/3. motion.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "EI/3. motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "EI/3. motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c063ef4e79dd690f",
+  "active": "03ab732688158e39",
   "lastOpenFiles": [
+    "images/Pasted image 20220924112308.png",
+    "EI/3. motion.md",
+    "EI/Untitled.md",
+    "DSA/Recursion/Techniques.md",
+    "EI/2. Location 1.md",
     "Untitled.md",
-    "ML1/10.practice.md",
-    "ML1/7.Decision trees.md",
-    "ML1/2.Linear classifier.md",
-    "ML1/6.Deep learning.md",
-    "ML1/5.Kernel.md",
-    "ML1/4.Optimisations.md",
-    "ML1/3.SVM.md",
     "Untitled 1.md",
-    "images/Pasted image 20220712161951.png"
+    "Untitled 2.md",
+    "ML1/3.SVM.md",
+    "ML1/2.Linear classifier.md"
   ]
 }
