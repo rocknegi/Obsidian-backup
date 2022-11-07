@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "03ab732688158e39",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "GES/7.signal processing.md",
-            "mode": "source",
-            "source": false
+        "id": "a23f72a17c6b531d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32a22c878f502fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDR/5. Inverse Kinematic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GES/7.signal processing.md",
+                "file": "GDR/5. Inverse Kinematic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GES/7.signal processing.md",
+                "file": "GDR/5. Inverse Kinematic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,17 +118,20 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03ab732688158e39",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "32a22c878f502fee",
   "lastOpenFiles": [
-    "GES/6.control theory.md",
-    "GES/3.Electrical Networks.md",
-    "GES/10. ES.md",
-    "GES/11.Exam Prep.md",
     "GDR/4. Direct Kinematics.md",
-    "GDR/5. Inverse Kinematic.md",
-    "GDR/3D coords.pdf",
-    "GDR/3.Kinematics-I + II.md",
+    "GDR/Maths stuff.md",
+    "GDR/2.Subsystems and Components.md",
+    "GDR/1.Introduction.md",
+    "GDR/References.md",
     "GDR/9.CP.md",
-    "GDR/8.Dynamic modelling.md"
+    "GDR/8.Dynamic modelling.md",
+    "GDR/7. Velocity.md",
+    "GDR/6.Differential Kinematics.md",
+    "GDR/5. Inverse Kinematic.md"
   ]
 }

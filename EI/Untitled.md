@@ -1,1 +1,0 @@
-[Dynamic time warping - Wikipedia](https://en.wikipedia.org/wiki/Dynamic_time_warping)![Earliest vs. early vs. late fusion of shape and color features. In ...](https://www.researchgate.net/publication/314028101/figure/fig2/AS:465655439859713@1488032316366/Earliest-vs-early-vs-late-fusion-of-shape-and-color-features-In-the-earliest-fusion.png)
