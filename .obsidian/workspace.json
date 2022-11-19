@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDR/5. Inverse Kinematic.md",
+                "file": "GDR/3.Kinematics-I + II.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "eb75e487116e27dd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
               }
             }
           }
@@ -77,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDR/5. Inverse Kinematic.md",
+                "file": "GDR/3.Kinematics-I + II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDR/5. Inverse Kinematic.md",
+                "file": "GDR/3.Kinematics-I + II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,20 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "32a22c878f502fee",
   "lastOpenFiles": [
+    "GDR/5. Inverse Kinematic.md",
     "GDR/4. Direct Kinematics.md",
-    "GDR/Maths stuff.md",
-    "GDR/2.Subsystems and Components.md",
+    "GDR/3.Kinematics-I + II.md",
     "GDR/1.Introduction.md",
+    "GDR/8.Dynamic modelling.md",
     "GDR/References.md",
     "GDR/9.CP.md",
-    "GDR/8.Dynamic modelling.md",
     "GDR/7. Velocity.md",
     "GDR/6.Differential Kinematics.md",
-    "GDR/5. Inverse Kinematic.md"
+    "GDR/3D coords.pdf"
   ]
 }
