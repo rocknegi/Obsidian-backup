@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dcbf9e05f891b445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GES/1.Electronical Baiscs.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GES/1.Electronical Baiscs.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,8 +148,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1af9bcadfa139249",
+  "active": "dcbf9e05f891b445",
   "lastOpenFiles": [
+    "GES/1.Electronical Baiscs.md",
+    "Readme.md",
     "EI/4. Deep Learning.md",
     "EI/3. motion.md",
     "EI/2. Location 1.md",
@@ -148,7 +163,6 @@
     "DSA/Sorting/Bubble Sort.md",
     "DSA/Recursion/Techniques.md",
     "GES/11.Exam Prep.md",
-    "Untitled.md",
     "GES/10. ES.md",
     "Document.pdf.md",
     "GES/Document1.pdf",
@@ -159,7 +173,6 @@
     "GES/7.signal processing.md",
     "GES/6.control theory.md",
     "GES/3.Electrical Networks.md",
-    "GES/1.Electronical Baiscs.md",
     "GDR/1.Introduction.md",
     "images/Pasted image 20220924120546.png",
     "GDR/Maths stuff.md",
