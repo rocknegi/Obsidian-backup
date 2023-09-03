@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c5ced5ae90d72da5",
+        "id": "c880caff899b047d",
         "type": "tabs",
         "children": [
           {
-            "id": "1af9bcadfa139249",
+            "id": "1c8b8792a1a0c22c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GES/1.Electronical Baiscs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcbf9e05f891b445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
+                "file": "DDM/1. Intro Stuff.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "DDM/1. Intro Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "DDM/1. Intro Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,13 +118,20 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "fc7c9df6068a12bd",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,35 +142,40 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dcbf9e05f891b445",
+  "active": "1c8b8792a1a0c22c",
   "lastOpenFiles": [
-    "GES/1.Electronical Baiscs.md",
-    "Readme.md",
-    "EI/4. Deep Learning.md",
+    "images/Pasted image 20230903113100.png",
+    "DDM/1. Intro Stuff.md",
+    "DDM",
     "EI/3. motion.md",
-    "EI/2. Location 1.md",
-    "EI/1.Intro.md",
-    "C&C++/1.Recursion.md",
-    "DSA/Sorting/Quick Sort.md",
-    "DSA/Sorting/Merge Two Sorted Arrays.md",
-    "DSA/Sorting/Insertion Sort.md",
-    "DSA/Sorting/Bubble Sort.md",
-    "DSA/Recursion/Techniques.md",
-    "GES/11.Exam Prep.md",
-    "GES/10. ES.md",
-    "Document.pdf.md",
-    "GES/Document1.pdf",
-    "3D Computer Vision/1.Camera.md",
-    "3D Computer Vision/3.Homographies.md",
-    "3D Computer Vision/2.Calibration.md",
-    "GES/8.Errors.md",
-    "GES/7.signal processing.md",
-    "GES/6.control theory.md",
-    "GES/3.Electrical Networks.md",
+    "EI/4. Deep Learning.md",
     "GDR/1.Introduction.md",
-    "images/Pasted image 20220924120546.png",
-    "GDR/Maths stuff.md",
+    "GDR/2.Subsystems and Components.md",
+    "GDR/3.Kinematics-I + II.md",
+    "GDR/3D coords.pdf",
+    "GDR/4. Direct Kinematics.md",
+    "GDR/5. Inverse Kinematic.md",
+    "GDR/6.Differential Kinematics.md",
+    "GDR/7. Velocity.md",
+    "GDR/8.Dynamic modelling.md",
+    "GDR/9.CP.md",
     "GDR/References.md",
-    "GDR/9.CP.md"
+    "GDR/Maths stuff.md",
+    "GES/11.Exam Prep.md",
+    "GES/Document1.pdf",
+    "RTS/6. CAN.md",
+    "RTS/7.  Real-Time Networks.md",
+    "RTS/8.Flexibility for Time-Triggered Scheduling.md",
+    "RTS/9. Overload Handling.md",
+    "RTS/10.Resource Management.md",
+    "RTS/11.Multicore.md",
+    "OMQA/5.inspection and reviews.md",
+    "OMQA/6.Data flow and anomolies.md",
+    "OMQA/7.Slicing.md",
+    "OMQA/EX4.md",
+    "Maths/trigonometry.pdf",
+    "Maths/Integration.jpg",
+    "Maths/Derivation.jpg",
+    "images/Pasted image 20220924120546.png"
   ]
 }

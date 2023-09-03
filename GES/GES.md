@@ -1,0 +1,8 @@
+![[1.Electronical Baiscs]]
+![[3.Electrical Networks]]
+![[6.control theory]]
+]
+![[7.signal processing]]
+![[8.Errors]]
+![[10. ES]]
+![[11.Exam Prep]]
