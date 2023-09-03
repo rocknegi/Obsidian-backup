@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDM/1. Intro Stuff.md",
+                "file": "DDM/2. Map Reduce.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDM/1. Intro Stuff.md",
+                "file": "DDM/2. Map Reduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDM/1. Intro Stuff.md",
+                "file": "DDM/2. Map Reduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,10 @@
   },
   "active": "df1695c5aa0f0a80",
   "lastOpenFiles": [
+    "Pasted image 20230903121256.png",
+    "Pasted image 20230903121056.png",
     "DDM/1. Intro Stuff.md",
+    "DDM/2. Map Reduce.md",
     "images/Pasted image 20230903113100.png",
     "DDM",
     "EI/3. motion.md",
@@ -172,7 +175,6 @@
     "OMQA/5.inspection and reviews.md",
     "OMQA/6.Data flow and anomolies.md",
     "OMQA/7.Slicing.md",
-    "OMQA/EX4.md",
     "Maths/trigonometry.pdf",
     "Maths/Integration.jpg",
     "Maths/Derivation.jpg",
