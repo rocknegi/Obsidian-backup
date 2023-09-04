@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "26f49409c92ecf31",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +153,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "df1695c5aa0f0a80",
+  "active": "26f49409c92ecf31",
   "lastOpenFiles": [
     "Pasted image 20230903121256.png",
     "Pasted image 20230903121056.png",
