@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "051ea48fb23e590a",
+        "id": "b4a5463853ef848b",
         "type": "tabs",
         "children": [
           {
-            "id": "debb2fd227caaba4",
+            "id": "b951eab89993da36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDM/2. Map Reduce.md",
-                "mode": "preview",
+                "file": "IRDM/2. Ranking.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDM/2. Map Reduce.md",
+                "file": "IRDM/2. Ranking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDM/2. Map Reduce.md",
+                "file": "IRDM/2. Ranking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,12 +143,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "debb2fd227caaba4",
+  "active": "b951eab89993da36",
   "lastOpenFiles": [
-    "GES/3.Electrical Networks.md",
+    "images/Pasted image 20230908163657.png",
+    "IRDM/2. Ranking.md",
+    "IRDM/3..md",
+    "images/Pasted image 20230908110340.png",
+    "images/Pasted image 20230908105925.png",
+    "images/Pasted image 20230908105914.png",
+    "images/Pasted image 20230908104402.png",
+    "IRDM/1. intro.md",
+    "images/Pasted image 20230905215111.png",
+    "Untitled.md",
+    "IRDM/Untitled",
+    "images/Pasted image 20230903121256.png",
+    "IRDM",
+    "Readme.md",
+    "images/Pasted image 20230903121056.png",
     "DDM/2. Map Reduce.md",
-    "Pasted image 20230903121256.png",
-    "Pasted image 20230903121056.png",
+    "GES/3.Electrical Networks.md",
     "DDM/1. Intro Stuff.md",
     "images/Pasted image 20230903113100.png",
     "DDM",
@@ -171,15 +184,7 @@
     "RTS/6. CAN.md",
     "RTS/7.  Real-Time Networks.md",
     "RTS/8.Flexibility for Time-Triggered Scheduling.md",
-    "RTS/9. Overload Handling.md",
-    "RTS/10.Resource Management.md",
-    "RTS/11.Multicore.md",
-    "OMQA/5.inspection and reviews.md",
-    "OMQA/6.Data flow and anomolies.md",
-    "OMQA/7.Slicing.md",
     "Maths/trigonometry.pdf",
-    "Maths/Integration.jpg",
-    "Maths/Derivation.jpg",
-    "images/Pasted image 20220924120546.png"
+    "Maths/Integration.jpg"
   ]
 }
