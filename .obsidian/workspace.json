@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IRDM/3. Statistical language models.md",
+                "file": "IRDM/2. Ranking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IRDM/3. Statistical language models.md",
+                "file": "IRDM/2. Ranking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IRDM/3. Statistical language models.md",
+                "file": "IRDM/2. Ranking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,15 +145,15 @@
   },
   "active": "b951eab89993da36",
   "lastOpenFiles": [
+    "IRDM/1. intro.md",
     "IRDM/2. Ranking.md",
+    "IRDM/3. Statistical language models.md",
     "Pasted image 20230909122534.png",
     "images/Pasted image 20230908163657.png",
-    "IRDM/3. Statistical language models.md",
     "images/Pasted image 20230908110340.png",
     "images/Pasted image 20230908105925.png",
     "images/Pasted image 20230908105914.png",
     "images/Pasted image 20230908104402.png",
-    "IRDM/1. intro.md",
     "images/Pasted image 20230905215111.png",
     "Untitled.md",
     "IRDM/Untitled",
