@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IRDM/2. Ranking.md",
+                "file": "IRDM/3. Statistical language models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IRDM/2. Ranking.md",
+                "file": "IRDM/3. Statistical language models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IRDM/2. Ranking.md",
+                "file": "IRDM/3. Statistical language models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,10 +145,10 @@
   },
   "active": "b951eab89993da36",
   "lastOpenFiles": [
+    "IRDM/2. Ranking.md",
     "Pasted image 20230909122534.png",
     "images/Pasted image 20230908163657.png",
-    "IRDM/2. Ranking.md",
-    "IRDM/3..md",
+    "IRDM/3. Statistical language models.md",
     "images/Pasted image 20230908110340.png",
     "images/Pasted image 20230908105925.png",
     "images/Pasted image 20230908105914.png",
@@ -185,7 +185,6 @@
     "RTS/6. CAN.md",
     "RTS/7.  Real-Time Networks.md",
     "RTS/8.Flexibility for Time-Triggered Scheduling.md",
-    "Maths/trigonometry.pdf",
-    "Maths/Integration.jpg"
+    "Maths/trigonometry.pdf"
   ]
 }
