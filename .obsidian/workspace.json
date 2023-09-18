@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IRDM/3. Statistical language models.md",
+                "file": "IRDM/4.Latent topic models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IRDM/3. Statistical language models.md",
+                "file": "IRDM/4.Latent topic models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IRDM/3. Statistical language models.md",
+                "file": "IRDM/4.Latent topic models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +155,11 @@
   },
   "active": "b951eab89993da36",
   "lastOpenFiles": [
-    "IRDM/2. Ranking.md",
     "IRDM/3. Statistical language models.md",
     "IRDM/4.Latent topic models.md",
+    "DDM/2. Map Reduce.md",
+    "DDM/1. Intro Stuff.md",
+    "IRDM/2. Ranking.md",
     "IRDM/1. intro.md",
     "Pasted image 20230909122534.png",
     "images/Pasted image 20230908163657.png",
@@ -172,9 +174,7 @@
     "IRDM",
     "Readme.md",
     "images/Pasted image 20230903121056.png",
-    "DDM/2. Map Reduce.md",
     "GES/3.Electrical Networks.md",
-    "DDM/1. Intro Stuff.md",
     "images/Pasted image 20230903113100.png",
     "DDM",
     "EI/3. motion.md",
