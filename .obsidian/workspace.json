@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IRDM/4.Latent topic models.md",
+                "file": "IRDM/5. link analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IRDM/4.Latent topic models.md",
+                "file": "IRDM/5. link analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IRDM/4.Latent topic models.md",
+                "file": "IRDM/5. link analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,8 +155,9 @@
   },
   "active": "b951eab89993da36",
   "lastOpenFiles": [
-    "IRDM/3. Statistical language models.md",
     "IRDM/4.Latent topic models.md",
+    "IRDM/5. link analysis.md",
+    "IRDM/3. Statistical language models.md",
     "DDM/2. Map Reduce.md",
     "DDM/1. Intro Stuff.md",
     "IRDM/2. Ranking.md",
@@ -195,7 +196,6 @@
     "GES/Document1.pdf",
     "RTS/6. CAN.md",
     "RTS/7.  Real-Time Networks.md",
-    "RTS/8.Flexibility for Time-Triggered Scheduling.md",
     "Maths/trigonometry.pdf"
   ]
 }
