@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IRDM/5. link analysis.md",
+                "file": "DDM/2. Map Reduce.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IRDM/5. link analysis.md",
+                "file": "DDM/2. Map Reduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IRDM/5. link analysis.md",
+                "file": "DDM/2. Map Reduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,14 +155,14 @@
   },
   "active": "b951eab89993da36",
   "lastOpenFiles": [
+    "DDM/1. Intro Stuff.md",
+    "IRDM/5. link analysis.md",
     "Pasted image 20230921191646.png",
     "Pasted image 20230919193140.png",
     "Pasted image 20230919191129.png",
     "IRDM/4.Latent topic models.md",
-    "IRDM/5. link analysis.md",
     "IRDM/3. Statistical language models.md",
     "DDM/2. Map Reduce.md",
-    "DDM/1. Intro Stuff.md",
     "IRDM/2. Ranking.md",
     "IRDM/1. intro.md",
     "Pasted image 20230909122534.png",
@@ -174,7 +174,6 @@
     "images/Pasted image 20230905215111.png",
     "Untitled.md",
     "IRDM/Untitled",
-    "images/Pasted image 20230903121256.png",
     "IRDM",
     "Readme.md",
     "GES/3.Electrical Networks.md",
