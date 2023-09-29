@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDM/3.Page rank.md",
+                "file": "DDM/4. NoSQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDM/3.Page rank.md",
+                "file": "DDM/4. NoSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDM/3.Page rank.md",
+                "file": "DDM/4. NoSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +153,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b951eab89993da36",
+  "active": "c063ef4e79dd690f",
   "lastOpenFiles": [
     "DDM/3.Page rank.md",
+    "DDM/4. NoSQL.md",
+    "Untitled.md",
     "images/Pasted image 20230923223714.png",
     "images/Pasted image 20230925231246.png",
     "images/Pasted image 20230923223727.png",
@@ -173,7 +175,6 @@
     "images/Pasted image 20230909122534.png",
     "images/Pasted image 20230908163657.png",
     "images/Pasted image 20230908110340.png",
-    "Untitled.md",
     "IRDM/Untitled",
     "IRDM",
     "Readme.md",
