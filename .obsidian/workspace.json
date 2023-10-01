@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IRDM/5. link analysis.md",
+                "file": "IRDM/6. query processing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IRDM/5. link analysis.md",
+                "file": "IRDM/6. query processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IRDM/5. link analysis.md",
+                "file": "IRDM/6. query processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,10 @@
   },
   "active": "b951eab89993da36",
   "lastOpenFiles": [
+    "Pasted image 20231002012216.png",
+    "Pasted image 20231002011841.png",
+    "IRDM/5. link analysis.md",
+    "IRDM/6. query processing.md",
     "DDM/4. NoSQL.md",
     "DDM/3.Page rank.md",
     "Untitled.md",
@@ -164,7 +168,6 @@
     "DDM/2. Map Reduce.md",
     "images/Pasted image 20230922000125.png",
     "DDM/1. Intro Stuff.md",
-    "IRDM/5. link analysis.md",
     "images/Pasted image 20230921191646.png",
     "images/Pasted image 20230919193140.png",
     "images/Pasted image 20230919191129.png",
@@ -174,7 +177,6 @@
     "IRDM/1. intro.md",
     "images/Pasted image 20230909122534.png",
     "images/Pasted image 20230908163657.png",
-    "images/Pasted image 20230908110340.png",
     "IRDM/Untitled",
     "IRDM",
     "Readme.md",
@@ -193,8 +195,6 @@
     "GDR/8.Dynamic modelling.md",
     "GDR/9.CP.md",
     "GDR/References.md",
-    "GDR/Maths stuff.md",
-    "GES/11.Exam Prep.md",
     "GES/Document1.pdf",
     "Maths/trigonometry.pdf"
   ]
