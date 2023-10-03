@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IRDM/1. intro.md",
+                "file": "IRDM/2. Ranking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IRDM/1. intro.md",
+                "file": "IRDM/2. Ranking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IRDM/1. intro.md",
+                "file": "IRDM/2. Ranking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,8 +155,8 @@
   },
   "active": "b951eab89993da36",
   "lastOpenFiles": [
-    "IRDM/2. Ranking.md",
     "IRDM/1. intro.md",
+    "IRDM/2. Ranking.md",
     "images/Pasted image 20231002012216.png",
     "IRDM/6. query processing.md",
     "images/Pasted image 20231002011841.png",
