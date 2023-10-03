@@ -11,9 +11,11 @@
             "id": "b951eab89993da36",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20231002012216.png"
+                "file": "IRDM/1. intro.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20231002012216.png",
+                "file": "IRDM/1. intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20231002012216.png",
+                "file": "IRDM/1. intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,11 +153,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c063ef4e79dd690f",
+  "active": "b951eab89993da36",
   "lastOpenFiles": [
+    "IRDM/2. Ranking.md",
+    "images/Pasted image 20231002012216.png",
     "IRDM/1. intro.md",
     "IRDM/6. query processing.md",
-    "images/Pasted image 20231002012216.png",
     "images/Pasted image 20231002011841.png",
     "IRDM/5. link analysis.md",
     "DDM/4. NoSQL.md",
@@ -172,7 +175,6 @@
     "images/Pasted image 20230919191129.png",
     "IRDM/4.Latent topic models.md",
     "IRDM/3. Statistical language models.md",
-    "IRDM/2. Ranking.md",
     "images/Pasted image 20230909122534.png",
     "IRDM/Untitled",
     "IRDM",
