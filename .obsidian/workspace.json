@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IRDM/6. query processing.md",
+                "file": "IRDM/1. intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IRDM/6. query processing.md",
+                "file": "IRDM/1. intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IRDM/6. query processing.md",
+                "file": "IRDM/1. intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,12 +153,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b951eab89993da36",
+  "active": "c063ef4e79dd690f",
   "lastOpenFiles": [
+    "IRDM/6. query processing.md",
     "Pasted image 20231002012216.png",
     "Pasted image 20231002011841.png",
     "IRDM/5. link analysis.md",
-    "IRDM/6. query processing.md",
     "DDM/4. NoSQL.md",
     "DDM/3.Page rank.md",
     "Untitled.md",
@@ -176,7 +176,6 @@
     "IRDM/2. Ranking.md",
     "IRDM/1. intro.md",
     "images/Pasted image 20230909122534.png",
-    "images/Pasted image 20230908163657.png",
     "IRDM/Untitled",
     "IRDM",
     "Readme.md",
