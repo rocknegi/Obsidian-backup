@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML1/10.practice.md",
+                "file": "IRDM/6. query processing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML1/10.practice.md",
+                "file": "IRDM/6. query processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML1/10.practice.md",
+                "file": "IRDM/6. query processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "b951eab89993da36",
   "lastOpenFiles": [
+    "ML1/10.practice.md",
     "ML1/7.Decision trees.md",
     "ML1/6.Deep learning.md",
     "ML1/4.Optimisations.md",
@@ -194,7 +195,6 @@
     "GDR/3D coords.pdf",
     "GDR/4. Direct Kinematics.md",
     "GDR/5. Inverse Kinematic.md",
-    "GDR/6.Differential Kinematics.md",
     "GES/Document1.pdf",
     "Maths/trigonometry.pdf"
   ]
