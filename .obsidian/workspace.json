@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IRDM/6. query processing.md",
+                "file": "ML1/10.practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IRDM/6. query processing.md",
+                "file": "ML1/10.practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IRDM/6. query processing.md",
+                "file": "ML1/10.practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,10 +155,15 @@
   },
   "active": "b951eab89993da36",
   "lastOpenFiles": [
+    "ML1/7.Decision trees.md",
+    "ML1/6.Deep learning.md",
+    "ML1/4.Optimisations.md",
+    "ML1/5.Kernel.md",
+    "ML1/2.Linear classifier.md",
+    "IRDM/6. query processing.md",
     "Pasted image 20231007114520.png",
     "Pasted image 20231007114501.png",
     "IRDM/5. link analysis.md",
-    "IRDM/6. query processing.md",
     "Pasted image 20231006000840.png",
     "Pasted image 20231006000806.png",
     "Pasted image 20231005190748.png",
@@ -171,7 +176,6 @@
     "IRDM/2. Ranking.md",
     "Pasted image 20231003172350.png",
     "IRDM/1. intro.md",
-    "images/Pasted image 20231002012216.png",
     "DDM/4. NoSQL.md",
     "DDM/3.Page rank.md",
     "Untitled.md",
@@ -191,10 +195,6 @@
     "GDR/4. Direct Kinematics.md",
     "GDR/5. Inverse Kinematic.md",
     "GDR/6.Differential Kinematics.md",
-    "GDR/7. Velocity.md",
-    "GDR/8.Dynamic modelling.md",
-    "GDR/9.CP.md",
-    "GDR/References.md",
     "GES/Document1.pdf",
     "Maths/trigonometry.pdf"
   ]
