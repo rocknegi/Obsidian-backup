@@ -11,11 +11,9 @@
             "id": "b951eab89993da36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "IRDM/7. classification.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20231008114330.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IRDM/7. classification.md",
+                "file": "images/Pasted image 20231008114330.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IRDM/7. classification.md",
+                "file": "images/Pasted image 20231008114330.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,31 +151,30 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b951eab89993da36",
+  "active": "c063ef4e79dd690f",
   "lastOpenFiles": [
-    "Pasted image 20231008112630.png",
-    "IRDM/6. query processing.md",
     "IRDM/7. classification.md",
+    "images/Pasted image 20231008114330.png",
+    "images/Pasted image 20231008114101.png",
+    "images/Pasted image 20231008114049.png",
+    "images/Pasted image 20231008112630.png",
+    "IRDM/6. query processing.md",
     "ML1/10.practice.md",
     "ML1/7.Decision trees.md",
     "ML1/6.Deep learning.md",
     "ML1/4.Optimisations.md",
     "ML1/5.Kernel.md",
     "ML1/2.Linear classifier.md",
-    "Pasted image 20231007114520.png",
-    "Pasted image 20231007114501.png",
+    "images/Pasted image 20231007114520.png",
+    "images/Pasted image 20231007114501.png",
     "IRDM/5. link analysis.md",
-    "Pasted image 20231006000840.png",
-    "Pasted image 20231006000806.png",
-    "Pasted image 20231005190748.png",
-    "Pasted image 20231005160755.png",
+    "images/Pasted image 20231006000840.png",
+    "images/Pasted image 20231006000806.png",
+    "images/Pasted image 20231005190748.png",
+    "images/Pasted image 20231005160755.png",
     "IRDM/3. Statistical language models.md",
-    "Pasted image 20231005121313.png",
-    "Pasted image 20231003230155.png",
     "IRDM/4.Latent topic models.md",
-    "Pasted image 20231003221853.png",
     "IRDM/2. Ranking.md",
-    "Pasted image 20231003172350.png",
     "IRDM/1. intro.md",
     "DDM/4. NoSQL.md",
     "DDM/3.Page rank.md",
