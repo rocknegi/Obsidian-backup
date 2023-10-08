@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IRDM/6. query processing.md",
+                "file": "IRDM/7. classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IRDM/6. query processing.md",
+                "file": "IRDM/7. classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IRDM/6. query processing.md",
+                "file": "IRDM/7. classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,13 +155,15 @@
   },
   "active": "b951eab89993da36",
   "lastOpenFiles": [
+    "Pasted image 20231008112630.png",
+    "IRDM/6. query processing.md",
+    "IRDM/7. classification.md",
     "ML1/10.practice.md",
     "ML1/7.Decision trees.md",
     "ML1/6.Deep learning.md",
     "ML1/4.Optimisations.md",
     "ML1/5.Kernel.md",
     "ML1/2.Linear classifier.md",
-    "IRDM/6. query processing.md",
     "Pasted image 20231007114520.png",
     "Pasted image 20231007114501.png",
     "IRDM/5. link analysis.md",
@@ -193,8 +195,6 @@
     "GDR/2.Subsystems and Components.md",
     "GDR/3.Kinematics-I + II.md",
     "GDR/3D coords.pdf",
-    "GDR/4. Direct Kinematics.md",
-    "GDR/5. Inverse Kinematic.md",
     "GES/Document1.pdf",
     "Maths/trigonometry.pdf"
   ]
