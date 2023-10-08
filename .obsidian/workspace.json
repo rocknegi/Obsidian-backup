@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b4a5463853ef848b",
+        "id": "3a2eda38dbeaea95",
         "type": "tabs",
         "children": [
           {
-            "id": "b951eab89993da36",
+            "id": "c75a2a1c5a7704f1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20231008114330.png"
+                "file": "IRDM/7. classification.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20231008114330.png",
+                "file": "IRDM/7. classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20231008114330.png",
+                "file": "IRDM/7. classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,10 +153,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c063ef4e79dd690f",
+  "active": "c75a2a1c5a7704f1",
   "lastOpenFiles": [
-    "IRDM/7. classification.md",
+    "Pasted image 20231008114428.png",
     "images/Pasted image 20231008114330.png",
+    "IRDM/7. classification.md",
     "images/Pasted image 20231008114101.png",
     "images/Pasted image 20231008114049.png",
     "images/Pasted image 20231008112630.png",
