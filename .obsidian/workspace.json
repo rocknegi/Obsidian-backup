@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IRDM/7. classification.md",
+                "file": "IRDM/1. intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IRDM/7. classification.md",
+                "file": "IRDM/1. intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IRDM/7. classification.md",
+                "file": "IRDM/1. intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,10 +155,10 @@
   },
   "active": "c75a2a1c5a7704f1",
   "lastOpenFiles": [
+    "IRDM/7. classification.md",
     "Pasted image 20231008223037.png",
     "Pasted image 20231008114428.png",
     "images/Pasted image 20231008114330.png",
-    "IRDM/7. classification.md",
     "images/Pasted image 20231008114101.png",
     "images/Pasted image 20231008114049.png",
     "images/Pasted image 20231008112630.png",
@@ -174,7 +174,6 @@
     "IRDM/5. link analysis.md",
     "images/Pasted image 20231006000840.png",
     "images/Pasted image 20231006000806.png",
-    "images/Pasted image 20231005190748.png",
     "IRDM/3. Statistical language models.md",
     "IRDM/4.Latent topic models.md",
     "IRDM/2. Ranking.md",
