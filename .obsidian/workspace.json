@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDM/2. Map Reduce.md",
+                "file": "DDM/3.Page rank.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDM/2. Map Reduce.md",
+                "file": "DDM/3.Page rank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDM/2. Map Reduce.md",
+                "file": "DDM/3.Page rank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,8 +155,8 @@
   },
   "active": "c75a2a1c5a7704f1",
   "lastOpenFiles": [
-    "DDM/1. Intro Stuff.md",
     "DDM/2. Map Reduce.md",
+    "DDM/1. Intro Stuff.md",
     "DDM/3.Page rank.md",
     "DDM/4. NoSQL.md",
     "IRDM/2. Ranking.md",
