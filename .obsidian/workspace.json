@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDM/4. NoSQL.md",
+                "file": "DDM/2. Map Reduce.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDM/4. NoSQL.md",
+                "file": "DDM/2. Map Reduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDM/4. NoSQL.md",
+                "file": "DDM/2. Map Reduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,14 +155,14 @@
   },
   "active": "c75a2a1c5a7704f1",
   "lastOpenFiles": [
+    "DDM/1. Intro Stuff.md",
+    "DDM/2. Map Reduce.md",
+    "DDM/4. NoSQL.md",
     "Pasted image 20231012093829.png",
     "Pasted image 20231011220352.png",
     "DDM/3.Page rank.md",
-    "DDM/4. NoSQL.md",
     "Pasted image 20231010234607.png",
     "Pasted image 20231010234531.png",
-    "DDM/2. Map Reduce.md",
-    "DDM/1. Intro Stuff.md",
     "IRDM/2. Ranking.md",
     "IRDM/1. intro.md",
     "IRDM/7. classification.md",
@@ -179,7 +179,6 @@
     "ML1/4.Optimisations.md",
     "ML1/5.Kernel.md",
     "ML1/2.Linear classifier.md",
-    "images/Pasted image 20231007114520.png",
     "IRDM/5. link analysis.md",
     "IRDM/3. Statistical language models.md",
     "IRDM/4.Latent topic models.md",
