@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDM/4. NoSQL.md",
+                "file": "DDM/5.EXAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDM/4. NoSQL.md",
+                "file": "DDM/5.EXAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDM/4. NoSQL.md",
+                "file": "DDM/5.EXAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,10 +155,11 @@
   },
   "active": "c75a2a1c5a7704f1",
   "lastOpenFiles": [
+    "DDM/4. NoSQL.md",
+    "DDM/5.EXAM.md",
     "DDM/3.Page rank.md",
     "DDM/2. Map Reduce.md",
     "DDM/1. Intro Stuff.md",
-    "DDM/4. NoSQL.md",
     "Pasted image 20231012093829.png",
     "Pasted image 20231011220352.png",
     "Pasted image 20231010234607.png",
