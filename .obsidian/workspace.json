@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDM/5.EXAM.md",
+                "file": "DDM/4. NoSQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDM/5.EXAM.md",
+                "file": "DDM/4. NoSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDM/5.EXAM.md",
+                "file": "DDM/4. NoSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,8 +155,9 @@
   },
   "active": "c75a2a1c5a7704f1",
   "lastOpenFiles": [
-    "DDM/4. NoSQL.md",
+    "Pasted image 20231015173606.png",
     "DDM/5.EXAM.md",
+    "DDM/4. NoSQL.md",
     "DDM/3.Page rank.md",
     "DDM/2. Map Reduce.md",
     "DDM/1. Intro Stuff.md",
@@ -193,7 +194,6 @@
     "EI/4. Deep Learning.md",
     "GDR/1.Introduction.md",
     "GDR/2.Subsystems and Components.md",
-    "GDR/3.Kinematics-I + II.md",
     "GDR/3D coords.pdf",
     "GES/Document1.pdf",
     "Maths/trigonometry.pdf"
