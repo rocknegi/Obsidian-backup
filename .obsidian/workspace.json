@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDM/3.Page rank.md",
+                "file": "DDM/4. NoSQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDM/3.Page rank.md",
+                "file": "DDM/4. NoSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDM/3.Page rank.md",
+                "file": "DDM/4. NoSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "c75a2a1c5a7704f1",
   "lastOpenFiles": [
+    "DDM/3.Page rank.md",
     "DDM/4. NoSQL.md",
     "Pasted image 20231016105044.png",
     "Pasted image 20231016104937.png",
@@ -167,7 +168,6 @@
     "Pasted image 20231015173907.png",
     "Pasted image 20231015173859.png",
     "Pasted image 20231015173606.png",
-    "DDM/3.Page rank.md",
     "DDM/2. Map Reduce.md",
     "DDM/1. Intro Stuff.md",
     "IRDM/2. Ranking.md",
