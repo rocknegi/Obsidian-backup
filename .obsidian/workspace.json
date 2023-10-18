@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDM/4. NoSQL.md",
+                "file": "DDM/5.EXAM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c60b5b3b794fa9fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IRDM/2. Ranking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDM/4. NoSQL.md",
+                "file": "IRDM/2. Ranking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDM/4. NoSQL.md",
+                "file": "IRDM/2. Ranking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,36 +166,36 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c75a2a1c5a7704f1",
+  "active": "c60b5b3b794fa9fc",
   "lastOpenFiles": [
-    "DDM/3.Page rank.md",
-    "DDM/2. Map Reduce.md",
-    "DDM/4. NoSQL.md",
-    "Pasted image 20231016105044.png",
-    "Pasted image 20231016104937.png",
-    "Pasted image 20231016104835.png",
-    "Pasted image 20231016104826.png",
-    "Pasted image 20231016104012.png",
-    "DDM/5.EXAM.md",
-    "Pasted image 20231015185830.png",
-    "Pasted image 20231015173952.png",
-    "Pasted image 20231015173907.png",
-    "Pasted image 20231015173859.png",
-    "Pasted image 20231015173606.png",
-    "DDM/1. Intro Stuff.md",
+    "IRDM/3. Statistical language models.md",
+    "IRDM/4.Latent topic models.md",
     "IRDM/2. Ranking.md",
-    "IRDM/1. intro.md",
     "IRDM/7. classification.md",
     "IRDM/6. query processing.md",
+    "IRDM/5. link analysis.md",
+    "IRDM/1. intro.md",
+    "Pasted image 20231018102951.png",
+    "Pasted image 20231018084022.png",
+    "Pasted image 20231018084009.png",
+    "Pasted image 20231017224101.png",
+    "Pasted image 20231017224043.png",
+    "Pasted image 20231017213258.png",
+    "Pasted image 20231017213153.png",
+    "Pasted image 20231017123436.png",
+    "Pasted image 20231017123316.png",
+    "images/Pasted image 20231008114428.png",
+    "DDM/5.EXAM.md",
+    "DDM/3.Page rank.md",
+    "DDM/4. NoSQL.md",
+    "DDM/2. Map Reduce.md",
+    "DDM/1. Intro Stuff.md",
     "ML1/10.practice.md",
     "ML1/7.Decision trees.md",
     "ML1/6.Deep learning.md",
     "ML1/4.Optimisations.md",
     "ML1/5.Kernel.md",
     "ML1/2.Linear classifier.md",
-    "IRDM/5. link analysis.md",
-    "IRDM/3. Statistical language models.md",
-    "IRDM/4.Latent topic models.md",
     "Untitled.md",
     "IRDM/Untitled",
     "IRDM",
