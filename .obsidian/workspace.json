@@ -23,11 +23,9 @@
             "id": "c60b5b3b794fa9fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "IRDM/2. Ranking.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20231017224101.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IRDM/2. Ranking.md",
+                "file": "images/Pasted image 20231017224101.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IRDM/2. Ranking.md",
+                "file": "images/Pasted image 20231017224101.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,24 +164,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c60b5b3b794fa9fc",
+  "active": "c063ef4e79dd690f",
   "lastOpenFiles": [
+    "images/Pasted image 20231017123316.png",
+    "IRDM/2. Ranking.md",
     "IRDM/3. Statistical language models.md",
     "IRDM/4.Latent topic models.md",
-    "IRDM/2. Ranking.md",
     "IRDM/7. classification.md",
     "IRDM/6. query processing.md",
     "IRDM/5. link analysis.md",
     "IRDM/1. intro.md",
-    "Pasted image 20231018102951.png",
-    "Pasted image 20231018084022.png",
-    "Pasted image 20231018084009.png",
-    "Pasted image 20231017224101.png",
-    "Pasted image 20231017224043.png",
-    "Pasted image 20231017213258.png",
-    "Pasted image 20231017213153.png",
-    "Pasted image 20231017123436.png",
-    "Pasted image 20231017123316.png",
+    "images/Pasted image 20231018102951.png",
+    "images/Pasted image 20231018084022.png",
+    "images/Pasted image 20231018084009.png",
+    "images/Pasted image 20231017224101.png",
+    "images/Pasted image 20231017224043.png",
+    "images/Pasted image 20231017213258.png",
+    "images/Pasted image 20231017213153.png",
+    "images/Pasted image 20231017123436.png",
     "images/Pasted image 20231008114428.png",
     "DDM/5.EXAM.md",
     "DDM/3.Page rank.md",
