@@ -23,9 +23,11 @@
             "id": "c60b5b3b794fa9fc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20231017224101.png"
+                "file": "OMQA/3.QFD.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDM/5.EXAM.md",
+                "file": "OMQA/3.QFD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDM/5.EXAM.md",
+                "file": "OMQA/3.QFD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,8 +166,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c063ef4e79dd690f",
+  "active": "c60b5b3b794fa9fc",
   "lastOpenFiles": [
+    "OMQA/EX1.md",
+    "OMQA/EX4.md",
+    "OMQA/EX3.md",
+    "DDM/5.EXAM.md",
     "images/Pasted image 20231017123316.png",
     "IRDM/2. Ranking.md",
     "IRDM/3. Statistical language models.md",
@@ -183,7 +189,6 @@
     "images/Pasted image 20231017213153.png",
     "images/Pasted image 20231017123436.png",
     "images/Pasted image 20231008114428.png",
-    "DDM/5.EXAM.md",
     "DDM/3.Page rank.md",
     "DDM/4. NoSQL.md",
     "DDM/2. Map Reduce.md",
@@ -202,8 +207,6 @@
     "DDM",
     "EI/3. motion.md",
     "EI/4. Deep Learning.md",
-    "GDR/1.Introduction.md",
-    "GDR/2.Subsystems and Components.md",
     "GDR/3D coords.pdf",
     "GES/Document1.pdf",
     "Maths/trigonometry.pdf"
