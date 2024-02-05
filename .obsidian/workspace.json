@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OMQA/3.QFD.md",
+                "file": "IRDM/1. intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OMQA/3.QFD.md",
+                "file": "IRDM/1. intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OMQA/3.QFD.md",
+                "file": "IRDM/1. intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,17 +168,22 @@
   },
   "active": "c60b5b3b794fa9fc",
   "lastOpenFiles": [
-    "OMQA/EX1.md",
-    "OMQA/EX4.md",
-    "OMQA/EX3.md",
-    "DDM/5.EXAM.md",
-    "images/Pasted image 20231017123316.png",
     "IRDM/2. Ranking.md",
     "IRDM/3. Statistical language models.md",
     "IRDM/4.Latent topic models.md",
-    "IRDM/7. classification.md",
-    "IRDM/6. query processing.md",
     "IRDM/5. link analysis.md",
+    "IRDM/6. query processing.md",
+    "IRDM/7. classification.md",
+    "DDM/5.EXAM.md",
+    "DDM/4. NoSQL.md",
+    "DDM/3.Page rank.md",
+    "DDM/2. Map Reduce.md",
+    "DDM/1. Intro Stuff.md",
+    "OMQA/3.QFD.md",
+    "OMQA/EX1.md",
+    "OMQA/EX4.md",
+    "OMQA/EX3.md",
+    "images/Pasted image 20231017123316.png",
     "IRDM/1. intro.md",
     "images/Pasted image 20231018102951.png",
     "images/Pasted image 20231018084022.png",
@@ -189,10 +194,6 @@
     "images/Pasted image 20231017213153.png",
     "images/Pasted image 20231017123436.png",
     "images/Pasted image 20231008114428.png",
-    "DDM/3.Page rank.md",
-    "DDM/4. NoSQL.md",
-    "DDM/2. Map Reduce.md",
-    "DDM/1. Intro Stuff.md",
     "ML1/10.practice.md",
     "ML1/7.Decision trees.md",
     "ML1/6.Deep learning.md",
@@ -206,7 +207,6 @@
     "GES/3.Electrical Networks.md",
     "DDM",
     "EI/3. motion.md",
-    "EI/4. Deep Learning.md",
     "GDR/3D coords.pdf",
     "GES/Document1.pdf",
     "Maths/trigonometry.pdf"
