@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3a2eda38dbeaea95",
+        "id": "c93319b166db8b9e",
         "type": "tabs",
         "children": [
           {
-            "id": "c75a2a1c5a7704f1",
+            "id": "7d0c69e8affb9ad9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDM/5.EXAM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c60b5b3b794fa9fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IRDM/1. intro.md",
+                "file": "DSA/FE_Master/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IRDM/1. intro.md",
+                "file": "DSA/FE_Master/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IRDM/1. intro.md",
+                "file": "DSA/FE_Master/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -166,8 +155,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c60b5b3b794fa9fc",
+  "active": "7d0c69e8affb9ad9",
   "lastOpenFiles": [
+    "Untitled.md",
+    "DSA/FE_Master/Untitled.md",
+    "DSA/FE_Master",
     "IRDM/2. Ranking.md",
     "IRDM/3. Statistical language models.md",
     "IRDM/4.Latent topic models.md",
@@ -200,13 +192,11 @@
     "ML1/4.Optimisations.md",
     "ML1/5.Kernel.md",
     "ML1/2.Linear classifier.md",
-    "Untitled.md",
     "IRDM/Untitled",
     "IRDM",
     "Readme.md",
     "GES/3.Electrical Networks.md",
     "DDM",
-    "EI/3. motion.md",
     "GDR/3D coords.pdf",
     "GES/Document1.pdf",
     "Maths/trigonometry.pdf"
