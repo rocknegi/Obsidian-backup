@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/FE_Master/Untitled.md",
+                "file": "Bussystem/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/FE_Master/Untitled.md",
+                "file": "Bussystem/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/FE_Master/Untitled.md",
+                "file": "Bussystem/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,8 +157,11 @@
   },
   "active": "7d0c69e8affb9ad9",
   "lastOpenFiles": [
+    "Pasted image 20240329190155.png",
     "Untitled.md",
+    "Bussystem/Introduction.md",
     "DSA/FE_Master/Untitled.md",
+    "Bussystem",
     "DSA/FE_Master",
     "IRDM/2. Ranking.md",
     "IRDM/3. Statistical language models.md",
@@ -194,8 +197,6 @@
     "ML1/2.Linear classifier.md",
     "IRDM/Untitled",
     "IRDM",
-    "Readme.md",
-    "GES/3.Electrical Networks.md",
     "DDM",
     "GDR/3D coords.pdf",
     "GES/Document1.pdf",
