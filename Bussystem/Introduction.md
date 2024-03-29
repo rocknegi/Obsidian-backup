@@ -9,3 +9,6 @@
 ### Why is segregation of functions so important? 
 - Enables qualification of individual functions  
 - Without segregation, all potentially interacting functions need to be qualified together, and all potentially interacting functions need to be developed w.r.t. the highest safety integrity level of these functions
+
+![[Pasted image 20240329190814.png]]
+![[Pasted image 20240329190621.png]]
