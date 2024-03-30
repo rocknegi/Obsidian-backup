@@ -1,0 +1,6 @@
+- Moore state machine: FSM output depends (only) on internal state of the state machine. 
+	- Moore state machine: FSM output depends only on internal state of the state machine. State changes on clock (CLK) signal. 
+	- The moore state machine is considered stable, as outputs only change with a state change
+- Medwedewstate machine: Special variant of Moore FSM, with the identity function as output function
+- Mealy state machine: FSM output depends on internal state and input values
+	- A mealy FSM with synchronous store updates its state synchronously. It might therefore change its output multiple times when input signal changes before the clock signal arrives and the FSM changes its state. This behavior is considered unstable,
