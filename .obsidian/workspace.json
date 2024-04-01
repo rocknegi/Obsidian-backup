@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bussystem/FSM.md",
+                "file": "Bussystem/Continuous Simulation System.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bussystem/FSM.md",
+                "file": "Bussystem/Continuous Simulation System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bussystem/FSM.md",
+                "file": "Bussystem/Continuous Simulation System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,8 +157,9 @@
   },
   "active": "7d0c69e8affb9ad9",
   "lastOpenFiles": [
-    "Bussystem/Simulation of discrete systems.md",
     "Bussystem/FSM.md",
+    "Bussystem/Continuous Simulation System.md",
+    "Bussystem/Simulation of discrete systems.md",
     "Bussystem/Introduction.md",
     "Pasted image 20240329190814.png",
     "Pasted image 20240329190621.png",
@@ -194,7 +195,6 @@
     "ML1/7.Decision trees.md",
     "ML1/6.Deep learning.md",
     "ML1/4.Optimisations.md",
-    "ML1/5.Kernel.md",
     "IRDM/Untitled",
     "IRDM",
     "DDM",
