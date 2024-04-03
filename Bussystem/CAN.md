@@ -1,0 +1,1 @@
+In fact, the time between the creation of the frame in the software at the node, and the time when the frame is available in the CAN communication adapter, is called the queuing jitter. This time is assumed to be bounded by 𝐽𝑖.****
