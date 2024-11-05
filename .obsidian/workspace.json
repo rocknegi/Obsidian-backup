@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML1/4.Optimisations.md",
+                "file": "Thesis/KIZ. intro.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.Optimisations"
+              "title": "KIZ. intro"
             }
           }
         ]
@@ -175,10 +175,10 @@
   },
   "active": "07abb633aca6edd2",
   "lastOpenFiles": [
+    "ML1/4.Optimisations.md",
     "ML1/3.SVM.md",
     "ML1/2.Linear classifier.md",
     "Thesis/KIZ. intro.md",
-    "ML1/4.Optimisations.md",
     "ML1/10.practice.md",
     "ML1/7.Decision trees.md",
     "ML1/6.Deep learning.md",
