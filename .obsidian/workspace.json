@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "KIZ. intro"
             }
+          },
+          {
+            "id": "9663c0504a5f1365",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +186,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "07abb633aca6edd2",
+  "active": "9663c0504a5f1365",
   "lastOpenFiles": [
     "ML1/4.Optimisations.md",
     "ML1/3.SVM.md",
