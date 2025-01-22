@@ -8,5 +8,8 @@
 -  Go one up up find the component that has the sensor like
 	- Arduino -> lidar sensor -> xyz lidar.
 - Quality assurance ? ask the internet R1.
+	- Check the papers he sent for QA
 - 5 references in prompting approach in the Thesis.
-- Add provenance in 
+- Add provenance in
+	- [PROV-O: The PROV Ontology](https://www.w3.org/TR/prov-o/)
+	- 
