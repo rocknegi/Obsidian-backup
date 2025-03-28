@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis/Diagram.md",
-                "mode": "preview",
+                "file": "Thesis/NOTES.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diagram"
+              "title": "NOTES"
             }
           }
         ],
