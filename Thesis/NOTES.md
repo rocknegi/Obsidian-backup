@@ -15,3 +15,9 @@
 
 
 
+## 09/04/25
+- not just for lidar sensors
+- general sensors
+- pages for thesis 80
+- check results for now approach then write about it 
+
