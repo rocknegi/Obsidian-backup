@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis/NOTES.md",
+                "file": "3D Computer Vision/2.Calibration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NOTES"
+              "title": "2.Calibration"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thesis/NOTES.md",
+                "file": "3D Computer Vision/2.Calibration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for NOTES"
+              "title": "Backlinks for 2.Calibration"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thesis/NOTES.md",
+                "file": "3D Computer Vision/2.Calibration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from NOTES"
+              "title": "Outgoing links from 2.Calibration"
             }
           },
           {
@@ -155,8 +155,9 @@
   },
   "active": "b65178e055772651",
   "lastOpenFiles": [
-    "ML1/0.Notations.md",
+    "3D Computer Vision/1.Camera.md",
     "Thesis/NOTES.md",
+    "ML1/0.Notations.md",
     "Thesis/Diagram.md",
     "IRDM/7. classification.md",
     "IRDM/6. query processing.md",
@@ -172,7 +173,6 @@
     "DDM/1. Intro Stuff.md",
     "3D Computer Vision/3.Homographies.md",
     "3D Computer Vision/2.Calibration.md",
-    "3D Computer Vision/1.Camera.md",
     "Thesis/Resources.md",
     "Pasted image 20241018112632.png",
     "Pasted image 20241018112649.png",
